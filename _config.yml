@@ -2,7 +2,7 @@
 # Site Settings
 title: Explore CNFTs
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Sharing my journey exploring the world of CNFTs as an artist on Cardano blockchain.
+description: Sharing my journey exploring the world of CNFTs on Cardano blockchain and as an artist myself creating some along the way.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
@@ -12,7 +12,7 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 # Author Settings
 author:
   author__name: Troy 
-  author__bio: Sharing my journey exploring the world of CNFTs as an artist on Cardano blockchain.
+  author__bio: Sharing my journey exploring the world of CNFTs on Cardano blockchain and as an artist myself creating some along the way.
   author__avatar: '/images/explore_cnfts/blog-profile-image.jpg'
 
 social:
@@ -26,8 +26,8 @@ social:
 # Hero Settings
 hero:
   hero__title: Hey, I’m Troy
-  hero__description: Sharing my journey exploring the world of CNFTs as an artist on Cardano blockchain.
-  hero__image: '/images/explore_cnfts/blog-image-2.png'
+  hero__description: Sharing my journey exploring the world of CNFTs on Cardano blockchain and as an artist myself creating some along the way.
+  hero__image: '/images/cnfts_minted/a_night_on_the_town.png'
 
 
 #-------------------------------
@@ -44,24 +44,38 @@ gallery:
   gallery__title: Gallery
   gallery__columns: 3
   gallery__images:
-    - alt: 'Rest'
-      url: '/images/100.jpg'
-    - alt: 'Lifestyle'
-      url: '/images/101.jpg'
-    - alt: 'Hobby'
-      url: '/images/102.jpg'
-    - alt: 'Notes'
-      url: '/images/103.jpg'
-    - alt: 'Rest'
-      url: '/images/104.jpg'
-    - alt: 'Hobby'
-      url: '/images/105.jpg'
-    - alt: 'Fashion'
-      url: '/images/106.jpg'
-    - alt: 'Notes'
-      url: '/images/107.jpg'
-    - alt: 'Rest'
-      url: '/images/108.jpg'
+    - alt: 'CNFTs'
+      url: '/images/cnfts_minted/a_night_on_the_town.png'
+    - alt: 'CNFTs'
+      url: '/images/cnfts_minted/bay_bridge_sunrise.png'
+    - alt: 'CNFTs'
+      url: '/images/cnfts_minted/change_of_season.png'
+    - alt: 'CNFTs'
+      url: '/images/cnfts_minted/clear_as_rain.png'
+    - alt: 'CNFTs'
+      url: '/images/cnfts_minted/dancing_sunflower_hybrids.png'
+    - alt: 'CNFTs'
+      url: '/images/cnfts_minted/gardens_by_the_bay.png'
+    - alt: 'CNFTs'
+      url: '/images/cnfts_minted/hallo.png'
+    - alt: 'CNFTs'
+      url: '/images/cnfts_minted/one_of_those_nights.png'
+    - alt: 'CNFTs'
+      url: '/images/cnfts_minted/rainy_day.png'
+    - alt: 'CNFTs'
+      url: '/images/cnfts_minted/reflections.png'
+    - alt: 'CNFTs'
+      url: '/images/cnfts_minted/something_special.png'
+    - alt: 'CNFTs'
+      url: '/images/cnfts_minted/tokyo_hybrids.png'
+    - alt: 'CNFTs'
+      url: '/images/cnfts_minted/tokyo_origins.png'
+    - alt: 'CNFTs'
+      url: '/images/cnfts_minted/variety.png'
+
+
+
+
 
 
 #-------------------------------

@@ -13,7 +13,7 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 author:
   author__name: Troy 
   author__bio: Sharing my journey exploring the world of CNFTs as an artist on Cardano blockchain.
-  author__avatar: '/images/explore_cnfts/blog-profile-imag.jpg'
+  author__avatar: '/images/explore_cnfts/blog-profile-image.jpg'
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com/explore_cnfts"}

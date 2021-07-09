@@ -2,7 +2,7 @@
 layout: post
 title:  unsigned_algorithms
 description: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative a...
-date:   2020-05-29 18:05:55 +0300
+date:   2019-05-29 18:05:55 +0300
 image:  '/images/projects/header_images/unsigs/unsigs_1.png'
 tags:   [data visualization, art]
 ---

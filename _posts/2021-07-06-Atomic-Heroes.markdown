@@ -6,8 +6,6 @@ date:   2020-04-23 15:01:35 +0300
 image:  '/images/projects/header_images/atomic_minions/atomic_minions_4.gif'
 tags:   [art]
 ---
-![](/images/projects/header_images/atomic_minions/atomic_minions_4.gif)
-
 ### Website
 [https://theatomicheroes.com](https://theatomicheroes.com)
 

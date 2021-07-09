@@ -6,9 +6,6 @@ date:   2020-05-29 18:05:55 +0300
 image:  '/images/projects/header_images/unsigs/unsigs_1.png'
 tags:   [data visualization, art]
 ---
-
-![](/images/projects/header_images/unsigs/unsigs_1.png)
-
 ### Website
 [https://www.unsigs.com/](https://www.unsigs.com)
 

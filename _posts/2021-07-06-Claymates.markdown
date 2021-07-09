@@ -1,13 +1,11 @@
 ---
 layout: post
-title:  Claymats
+title:  Claymates
 description: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative a...
 date:   2020-04-24 15:01:35 +0300
 image:  '/images/projects/header_images/claymates/claymates_1.gif'
 tags:   [animation, art]
 ---
-![](/images/projects/header_images/claymates/claymates_1.gif)
-
 ### Website
 [https://www.claymates.org](https://www.claymates.org)
 

@@ -27,7 +27,7 @@ social:
 hero:
   hero__title: Hey, I’m Troy
   hero__description: Sharing my journey exploring the world of CNFTs on Cardano blockchain and as an artist myself creating some along the way.
-  hero__image: '/images/cnfts_minted/a_night_on_the_town.png'
+  hero__image: '/images/cnfts_minted/a_night_on_the_town_edited.png'
 
 
 #-------------------------------
@@ -47,31 +47,14 @@ gallery:
     - alt: 'CNFTs'
       url: '/images/cnfts_minted/a_night_on_the_town.png'
     - alt: 'CNFTs'
-      url: '/images/cnfts_minted/bay_bridge_sunrise.png'
-    - alt: 'CNFTs'
-      url: '/images/cnfts_minted/change_of_season.png'
-    - alt: 'CNFTs'
-      url: '/images/cnfts_minted/clear_as_rain.png'
-    - alt: 'CNFTs'
       url: '/images/cnfts_minted/dancing_sunflower_hybrids.png'
     - alt: 'CNFTs'
       url: '/images/cnfts_minted/gardens_by_the_bay.png'
     - alt: 'CNFTs'
-      url: '/images/cnfts_minted/hallo.png'
-    - alt: 'CNFTs'
       url: '/images/cnfts_minted/one_of_those_nights.png'
     - alt: 'CNFTs'
-      url: '/images/cnfts_minted/rainy_day.png'
-    - alt: 'CNFTs'
-      url: '/images/cnfts_minted/reflections.png'
-    - alt: 'CNFTs'
       url: '/images/cnfts_minted/something_special.png'
-    - alt: 'CNFTs'
-      url: '/images/cnfts_minted/tokyo_hybrids.png'
-    - alt: 'CNFTs'
-      url: '/images/cnfts_minted/tokyo_origins.png'
-    - alt: 'CNFTs'
-      url: '/images/cnfts_minted/variety.png'
+
 
 
 #-------------------------------

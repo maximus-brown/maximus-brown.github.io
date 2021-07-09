@@ -27,7 +27,7 @@ social:
 hero:
   hero__title: Hey, I’m Troy
   hero__description: Sharing my journey exploring the world of CNFTs on Cardano blockchain and as an artist myself creating some along the way.
-  hero__image: '/images/cnfts_minted/a_night_on_the_town_edited_3.png'
+  hero__image: 
 
 
 #-------------------------------

@@ -5,7 +5,7 @@ logo: # You can add own logo. For example '/images/logo.png'.
 description: Sharing my journey exploring the world of CNFTs on Cardano blockchain and as an artist myself creating some along the way.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+color_scheme: light # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
 #-------------------------------
@@ -27,7 +27,7 @@ social:
 hero:
   hero__title: Hey, I’m Troy
   hero__description: Sharing my journey exploring the world of CNFTs on Cardano blockchain and as an artist myself creating some along the way.
-  hero__image: '/images/cnfts_minted/a_night_on_the_town_edited_2.png'
+  hero__image: '/images/cnfts_minted/a_night_on_the_town_edited_3.png'
 
 
 #-------------------------------

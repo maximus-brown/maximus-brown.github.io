@@ -40,21 +40,6 @@ mailchimp__button__text: Get a new tip
 
 #-------------------------------
 # Gallery Footer Section
-gallery:
-  gallery__title: Gallery
-  gallery__columns: 3
-  gallery__images:
-    - alt: 'CNFTs'
-      url: '/images/cnfts_minted/a_night_on_the_town.png'
-    - alt: 'CNFTs'
-      url: '/images/cnfts_minted/dancing_sunflower_hybrids.png'
-    - alt: 'CNFTs'
-      url: '/images/cnfts_minted/gardens_by_the_bay.png'
-    - alt: 'CNFTs'
-      url: '/images/cnfts_minted/one_of_those_nights.png'
-    - alt: 'CNFTs'
-      url: '/images/cnfts_minted/something_special.png'
-
 
 
 #-------------------------------

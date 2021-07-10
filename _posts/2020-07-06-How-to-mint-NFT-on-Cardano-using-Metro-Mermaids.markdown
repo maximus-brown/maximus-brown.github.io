@@ -34,18 +34,22 @@ We're going to use a platform called [Pinata](https://pinata.cloud/) to upload i
 After creating an account and logging in you should see an Upload button at the top center of the page. Click on the Upload button and choose the File option.  
 
 ![](/images/posts/how-to-mint-nft-on-cardano/pinata_2.png) 
-ed
+
 ![](/images/posts/how-to-mint-nft-on-cardano/pinata_4.png)  
 
 A popup window should appear that looks like this:  
 
 ![](/images/posts/how-to-mint-nft-on-cardano/pinata_8.png)  
 
-Upload your image and wait a few seconds until complete. I just used the image created for this tutorial. You should now see the image link in your account. 
+Upload your image and leave empty the field to input a custom name for a pin. Also leave unchecked the "Preserve file name" option. Click on the "Upload" button. I just used the image created for this tutorial.
+
+![](/images/posts/how-to-mint-nft-on-cardano/pinata_5.png)  
+
+If you wait a few seconds you should now see the image link posted in your account. 
 
 ![](/images/posts/how-to-mint-nft-on-cardano/pinata_6.png)    
 
- Now, let's switch gears.
+Now, let's switch gears.
 
 ### Step 2: Go to Metro Maids Minting Tool
 Go to the following URL:

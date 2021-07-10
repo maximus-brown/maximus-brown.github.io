@@ -31,36 +31,28 @@ We're going to use a platform called [Pinata](https://pinata.cloud/) to upload i
 
 ![](/images/posts/how-to-mint-nft-on-cardano/pinata_1.png)  
 
-After creating an account and logging in you should see an Upload button at the top center of the page. Click on the Upload button.  
+After creating an account and logging in you should see an Upload button at the top center of the page. Click on the Upload button and choose the File option.  
 
 ![](/images/posts/how-to-mint-nft-on-cardano/pinata_4.png)  
 
 A popup window should appear that looks like this:  
 
-![](/images/posts/how-to-mint-nft-on-cardano/pinata_5.png)  
+![](/images/posts/how-to-mint-nft-on-cardano/pinata_8.png)  
 
 Upload your image and wait a few seconds until complete. I just used the image created for this tutorial. You should now see your image displayed kind of like this.
 
-![](/images/posts/how-to-mint-nft-on-cardano/pinata_6.png)  
+![](/images/posts/how-to-mint-nft-on-cardano/pinata_6.png)    
 
+Make sure you keep the Pinata browser window open because we're going back to this page in a little bit. 
 
+Now, let's switch gears.
 
-
-
-
-
-
-
-
-
-
-
-### Step : Go to Metro Maids Minting Tool
+### Step 2: Go to Metro Maids Minting Tool
 Go to the following URL:
-[https://www.metromermaids.com/mint-a-token/](https://www.metromermaids.com/mint-a-token/)
+[https://www.metromermaids.com/mint-a-token/](https://www.metromermaids.com/mint-a-token/)  
 
 You should see a page like this.
 <br/>
-![](/images/posts/how-to-mint-nft-on-cardano/metro-maid-minting-tool.png)
+![](/images/posts/how-to-mint-nft-on-cardano/metro-maid-minting-tool.png)  
 
-### Step 2: 
+

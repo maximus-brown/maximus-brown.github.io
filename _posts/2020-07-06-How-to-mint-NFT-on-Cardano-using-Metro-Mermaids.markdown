@@ -34,11 +34,11 @@ We're going to use a platform called [Pinata](https://pinata.cloud/) to upload i
 
 After creating an account and logging in you should see an Upload button at the top center of the page. Click on the Upload button.  
 
-![](/images/posts/how-to-mint-nft-on-cardano/pinata_1.png)  
+![](/images/posts/how-to-mint-nft-on-cardano/pinata_2.png)  
 
 A popup window should appear that looks like this:  
 
-![](/images/posts/how-to-mint-nft-on-cardano/pinata_1.png)  
+![](/images/posts/how-to-mint-nft-on-cardano/pinata_3.png)  
 
 Upload your image and wait a few seconds until complete.
 

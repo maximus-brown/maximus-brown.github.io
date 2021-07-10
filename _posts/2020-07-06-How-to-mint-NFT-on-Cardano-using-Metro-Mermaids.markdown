@@ -23,18 +23,28 @@ I can't be held responsible or liable for your use of the information contained 
 ### Step 1: Upload your image to IPFS
 Since this is your first time ever minting an NFT, find an image that you're completely fine with messing up on and uploading to a place that everyone has access to see. Once images are uploaded to [IPFS](https://docs.ipfs.io/concepts/what-is-ipfs/) there's no turning back and they can't be deleted!
 
+I'll just use the image created for this tutorial.
+
+
 I'd also suggest being VERY careful what type of image you're uploading to ensure you don't break any copyright infringements.  
 
-We're going to use a platform called [Pinata](https://pinata.cloud/), which has been my favorite tool so far to upload images to IPFS. I'm currently using their free tier plan. Feel free to use another method to upload images to IPFS if you like. 
+We're going to use a platform called [Pinata](https://pinata.cloud/) to upload images to IPFS, which has been my favorite tool so far. I'm currently using their free tier plan. There are certainly other options if you're inclined to use alternatives. 
 
-### Go to the following URL:
+### Let's go to Pinata:
 [https://pinata.cloud/](https://pinata.cloud/)
-<br/>
+<br/><br/>
+
 ![](/images/posts/how-to-mint-nft-on-cardano/pinata_1.png)
 
-After creating an account with Pinata and logging in you should see an Upload button at the top center of the page. 
+After creating an account and logging in you should see an "Upload" button at the top center of the page. Click on the "Upload" button.
 
 ![](/images/posts/how-to-mint-nft-on-cardano/pinata_2.png)
+
+A popup window should appear that looks like this:
+
+![](/images/posts/how-to-mint-nft-on-cardano/pinata_2.png)
+
+Upload your image and wait a few seconds until complete.
 
 
 

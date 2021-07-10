@@ -69,3 +69,6 @@ Sections include:
 - IPFS Qid/CID
 - Metadata
 
+### NFT Short Name or Ticker
+The short name 
+

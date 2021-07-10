@@ -12,5 +12,9 @@ Now, you might be wondering how is it even possible to mint NFTs on Cardano when
 
 > "Cardano’s approach to building custom tokens differs from a non-native implementation of custom tokens, such as ERC-721 or ERC-20, where custom tokens are implemented using smart contract functionality to simulate transfer of custom assets (i.e., a ledger accounting system). Our approach to create custom tokens does not require smart contracts, as the ledger implementation itself supports the accounting on non-ada native assets." [-Cardano Docs](https://cardano-ledger.readthedocs.io/en/latest/explanations/faq.html#cardano-native-tokens-vs-erc)
 
-Today I'll share one of the easiest and most effective ways to mint your own NFT in a matter of a few minutes. For newbies I'd say the hardest part, which isn't so bad, is getting set up with a proper 
+Today I'll share one of the easiest and quickest ways to mint your own NFT in a matter of minutes.
+
+### IMPORTANT DISCLAIMER, OR USE AT YOUR OWN RISK 
+None of the authors, contributors, administrators, vandals, or anyone else connected with Wikipedia, in any way whatsoever, can be responsible for your use of the information contained in or linked from these web pages."
+
 

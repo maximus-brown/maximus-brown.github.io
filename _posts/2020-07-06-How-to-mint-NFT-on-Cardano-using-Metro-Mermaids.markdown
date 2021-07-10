@@ -19,7 +19,31 @@ I can't be held responsible or liable for your use of the information contained 
 
 # Let's get started!
 
-### Step 1: Go to Metro Maids Minting Tool
+
+### Step 1: Upload your image to IPFS
+Since this is your first time ever minting an NFT, find an image that you're completely fine with messing up on and uploading to a place that everyone has access to see. Once images are uploaded to [IPFS](https://docs.ipfs.io/concepts/what-is-ipfs/) there's no turning back and they can't be deleted!
+
+I'd also suggest being VERY careful what type of image you're uploading to ensure you don't break any copyright infringements.  
+
+We're going to use a platform called [Pinata](https://pinata.cloud/), which has been my favorite tool so far to upload images to IPFS. I'm currently using their free tier plan. Feel free to use another method to upload images to IPFS if you like. 
+
+### Go to the following URL:
+[https://pinata.cloud/](https://pinata.cloud/)
+<br/>
+![](/images/posts/how-to-mint-nft-on-cardano/pinata_1.png)
+
+After creating an account with Pinata and logging in you should see an Upload button at the top center of the page. 
+
+![](/images/posts/how-to-mint-nft-on-cardano/pinata_2.png)
+
+
+
+
+
+
+
+
+### Step : Go to Metro Maids Minting Tool
 Go to the following URL:
 [https://www.metromermaids.com/mint-a-token/](https://www.metromermaids.com/mint-a-token/)
 
@@ -27,4 +51,4 @@ You should see a page like this.
 <br/>
 ![](/images/posts/how-to-mint-nft-on-cardano/metro-maid-minting-tool.png)
 
-
+### Step 2: 

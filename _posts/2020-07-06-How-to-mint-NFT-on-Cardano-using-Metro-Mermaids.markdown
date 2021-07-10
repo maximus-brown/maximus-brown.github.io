@@ -18,3 +18,12 @@ Today I'll share one of the easiest and quickest ways to mint your own NFT in a 
 I can't be held responsible or liable for your use of the information contained in or linked from these web pages. Please try at your own risk. 
 
 # Let's get started!
+
+### Step 1: Go to Metro Maids Minting Tool
+Go to the following URL:
+https://www.metromermaids.com/mint-a-token/
+
+You should see a page like this.
+![](/images/posts/how-to-mint-nft-on-cardano/metro-maid-minting-tool.png)
+
+

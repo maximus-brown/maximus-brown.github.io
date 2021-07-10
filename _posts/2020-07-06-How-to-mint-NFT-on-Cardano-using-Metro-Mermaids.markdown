@@ -21,9 +21,10 @@ I can't be held responsible or liable for your use of the information contained 
 
 ### Step 1: Go to Metro Maids Minting Tool
 Go to the following URL:
-https://www.metromermaids.com/mint-a-token/
+[https://www.metromermaids.com/mint-a-token/](https://www.metromermaids.com/mint-a-token/)
 
 You should see a page like this.
+<br/>
 ![](/images/posts/how-to-mint-nft-on-cardano/metro-maid-minting-tool.png)
 
 

@@ -24,7 +24,7 @@ Since this is your first time ever minting an NFT, find an image that you're com
 
 I'd also suggest being VERY careful what type of image you're uploading to ensure you don't break any copyright infringements.  
 
-We're going to use a platform called [Pinata](https://pinata.cloud/) to upload images to IPFS, which has been my favorite tool so far. I'm currently using their free tier plan. There are certainly other options if you're inclined to use alternatives. 
+We're going to use a platform called [Pinata](https://pinata.cloud/) to upload images to IPFS, which has been smooth so far. I'm currently using their free tier plan. Feel free to try alternative methods to upload images to IPFS if you prefer.  
 
 ### Let's go to Pinata:
 [https://pinata.cloud/](https://pinata.cloud/)  
@@ -33,19 +33,19 @@ We're going to use a platform called [Pinata](https://pinata.cloud/) to upload i
 
 After creating an account and logging in you should see an Upload button at the top center of the page. Click on the Upload button and choose the File option.  
 
+![](/images/posts/how-to-mint-nft-on-cardano/pinata_2.png) 
+ed
 ![](/images/posts/how-to-mint-nft-on-cardano/pinata_4.png)  
 
 A popup window should appear that looks like this:  
 
 ![](/images/posts/how-to-mint-nft-on-cardano/pinata_8.png)  
 
-Upload your image and wait a few seconds until complete. I just used the image created for this tutorial. You should now see your image displayed kind of like this.
+Upload your image and wait a few seconds until complete. I just used the image created for this tutorial. You should now see the image link in your account. 
 
 ![](/images/posts/how-to-mint-nft-on-cardano/pinata_6.png)    
 
-Make sure you keep the Pinata browser window open because we're going back to this page in a little bit. 
-
-Now, let's switch gears.
+ Now, let's switch gears.
 
 ### Step 2: Go to Metro Maids Minting Tool
 Go to the following URL:

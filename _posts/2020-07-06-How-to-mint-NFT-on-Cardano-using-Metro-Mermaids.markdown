@@ -70,5 +70,21 @@ Sections include:
 - Metadata
 
 ### NFT Short Name or Ticker
-The short name 
+The short name I'm using is MyFirstNFT01, but feel free to use something else. Keep in mind the name can't have any spaces or special characters.  
+![](/images/posts/how-to-mint-nft-on-cardano/metro-maid_2.png)  
+
+### NFT Display Name
+This is the longer name that will be included in the minted NFT. There is a lot more flexibility in terms of names you could include, but it's probably best to keep it somewhat consistent with the NFT Short Name. 
+
+![](/images/posts/how-to-mint-nft-on-cardano/metro-maid_3.png)  
+
+### How many to mint
+Very important to ALWAYS leave this as 1 if you truly want to create an NFT. Otherwise you'll end up creating a fungible token instead, which isn't unique.
+
+![](/images/posts/how-to-mint-nft-on-cardano/metro-maid_4.png)  
+
+### NFT Receive Address
+This is probably one of trickiest parts if you're entirely new to Cardano and using accepted ADA wallets. 
+
+![](/images/posts/how-to-mint-nft-on-cardano/metro-maid_6.png)  
 

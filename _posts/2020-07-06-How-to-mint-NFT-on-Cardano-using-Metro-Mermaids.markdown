@@ -55,8 +55,17 @@ Now, let's switch gears.
 Go to the following URL:
 [https://www.metromermaids.com/mint-a-token/](https://www.metromermaids.com/mint-a-token/)  
 
-You should see a page like this.
+You should see a page like this.  
 <br/>
-![](/images/posts/how-to-mint-nft-on-cardano/metro-maid-minting-tool.png)  
+![](/images/posts/how-to-mint-nft-on-cardano/metro-maid-minting-tool.png)   
+We're basically going to be going thru each section one at a time. 
 
+Sections include:
+- NFT Short Name or Ticker
+- NFT Display Name
+- How many to mint
+- NFT Receive Address
+- Policy options
+- IPFS Qid/CID
+- Metadata
 

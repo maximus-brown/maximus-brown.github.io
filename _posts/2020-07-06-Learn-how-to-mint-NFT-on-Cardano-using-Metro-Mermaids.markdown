@@ -78,6 +78,9 @@ We're going to be covering the following input fields:
 The short name I'm using is MyFirstNFT01, but feel free to use something else. Keep in mind the name can't have any spaces or special characters.  
 ![](/images/posts/how-to-mint-nft-on-cardano/metro-maid_2.png)  
 
+To help better explain what a short name is go to your Yoroi wallet in the Send section. Use the dropdown menu to select an asset and you'll start to see short names displayed for each NFT in your ADA wallet. In this case the short name is "Reflections01".
+
+![](/images/posts/how-to-mint-nft-on-cardano/yoroi_wallet_1.png)    
 If in the future you want to mint several different NFTs using the same policy ID you'll need to make sure each short name is unique. That's where including numbers can come in handy. 
 
 ### NFT Display Name

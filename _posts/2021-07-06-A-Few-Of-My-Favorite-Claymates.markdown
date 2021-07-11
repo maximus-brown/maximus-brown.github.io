@@ -14,27 +14,29 @@ I also like that they continue to surprise art collectors for new drops released
 
 You can watch the teaser short video clip on Pool.pm [here.](https://pool.pm/f945eef343e1a08919c3a58ac599a84ba2f25eb8a7d3b1663b8a2687.ClayMatesExtra329)  
 
-I wanted to narrow down and share a few of my personal favorite Clays so far, but in all reality I like almost all of them! 
+I wanted to share a few of my personal favorite Clays so far, but in all reality I like almost all of them! There is no particular ranking order in the Claymates shared below. 
 
-The ones shared below are in no ranking order...they are all fantastic! 
+### Humphrey Whaleson (Candyfloss background)
+![](/images/posts/favorite-claymates/humphrey_candyfloss.gif)  
 
+### Danny S Pacey ()
+![](/images/posts/favorite-claymates/danny_s_pacey_1.gif)  
 
+### Pet Shop || 
+![](/images/posts/favorite-claymates/pets_fish.gif)  
 
+### Papa's Garage || Motorbike Orange Sun
+![](/images/posts/favorite-claymates/garage_motorbike_orange_sun.gif)  
 
+### Papa's Garage || Ol' Banger Tyred
+![](/images/posts/favorite-claymates/garage_old_banger.gif)  
 
+### There are so many more Claymates!
+I've only given you a small sample of the much larger collection of the Claymates family and there are much more to come in the future. 
 
+Feel free to check out what they're up to on Twitter [here @The_ClayMates.](https://twitter.com/The_ClayMates)
 
+Until next time take care!
 
-
-### Social
-Twitter || [@The_ClayMates](https://twitter.com/The_ClayMates)  
-Discord || [https://discord.gg/8HpNU9Q9](https://discord.gg/8HpNU9Q9)
-
-### About
-> “Clay Mates are fun stop motion animation figures and characters, who are brought to life and re-homed on the blockchain as NFTs. Each creation is unique & designed to make you smile.”
-
-### Explore
-[https://www.claymates.org/discover](https://www.claymates.org/discover)
-
-### FAQs
-[https://www.claymates.org/faqs](https://www.claymates.org/faqs)
+### Important Disclaimer
+I can't be held responsible or liable for your use of the information contained in or linked from these web pages. Please try at your own risk.

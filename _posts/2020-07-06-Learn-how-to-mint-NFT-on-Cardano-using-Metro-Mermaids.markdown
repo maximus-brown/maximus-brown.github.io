@@ -8,7 +8,7 @@ tags:   [minting]
 ---
 The process of minting NFTs on Cardano blockchain is most likely going to change dramatically in the near future after the official release of smart contracts with [Alonzo Goguen](https://roadmap.cardano.org/en/goguen/), but that could still be at least a few months away. 
 
-In the meantime there are still going to be folks like me who want to start minting NFTs right away to be a part of history and early adopters in this exciting new space. 
+In the meantime there are going to be folks like me who want to start minting NFTs right away to be a part of history and early adopters in this exciting new space. 
 
 Now, you might be wondering how is it even possible to mint NFTs on Cardano when smart contracts aren't yet available. The short answer is developers have figured out a way to hack together methods to make it work and some of the earliest NFT projects like [Spacebudz](https://spacebudz.io) were hugely successful selling out supply in a matter of days.
 

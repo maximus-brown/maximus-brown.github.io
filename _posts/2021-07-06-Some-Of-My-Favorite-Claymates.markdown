@@ -12,11 +12,19 @@ I also like that they continue to surprise art collectors for new drops released
 
 ![](/images/posts/favorite-claymates/claymates-spacebudz-collab_1.png)  
 
-You can watch the short video clip on Pool.pm [here.](https://pool.pm/f945eef343e1a08919c3a58ac599a84ba2f25eb8a7d3b1663b8a2687.ClayMatesExtra329)
+You can watch the teaser short video clip on Pool.pm [here.](https://pool.pm/f945eef343e1a08919c3a58ac599a84ba2f25eb8a7d3b1663b8a2687.ClayMatesExtra329)  
+
+I wanted to narrow down and share a few of my personal favorite Clays so far, but in all reality I like almost all of them! 
+
+The ones shared below are in no ranking order...they are all fantastic! 
 
 
-### Website
-[https://www.claymates.org](https://www.claymates.org)
+
+
+
+
+
+
 
 ### Social
 Twitter || [@The_ClayMates](https://twitter.com/The_ClayMates)  

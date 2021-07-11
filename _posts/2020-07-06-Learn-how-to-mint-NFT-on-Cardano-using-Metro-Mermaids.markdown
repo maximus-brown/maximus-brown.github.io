@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  How to mint an NFT on Cardano blockchain using Metro Mermaids
+title:  Learn how to mint an NFT on Cardano blockchain using Metro Mermaids
 description: Learn how to mint your own NFTs on Cardano blockchain
 date:   2019-01-29 18:05:55 +0300
 image:  '/images/posts/how-to-mint-nft-on-cardano/mint-nfts-on-cardano-blockchain.png'

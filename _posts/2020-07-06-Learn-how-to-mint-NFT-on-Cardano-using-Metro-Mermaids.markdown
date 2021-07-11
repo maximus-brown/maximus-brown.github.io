@@ -18,12 +18,11 @@ Today I'll share one of the easiest and quickest ways to mint your own NFT in a 
 
 Initially I started to put together my own step by step guide on how to mint NFTs, but [Crypto Slim's](https://youtu.be/YPvrfV4dkbM) how-to video already does a fantastic job explaining all the steps involved and the link is shown below.
 
-### Crypto Slim's tutorial on YouTube
-[Learn How to Mint an NFT on Cardano](https://youtu.be/YPvrfV4dkbM) 
+### [Click here for Crypto Slim's tutorial on YouTube](https://youtu.be/YPvrfV4dkbM)
 
 Separately, here's a link to MermADA's minting tool so you have that handy for the video. 
 
-[https://www.metromermaids.com/mint-a-token/](https://www.metromermaids.com/mint-a-token/)
+#### [https://www.metromermaids.com/mint-a-token/](https://www.metromermaids.com/mint-a-token/)
 
 Best wishes on your journey with Cardano! I've been pleasantly surprised with how warm and supportive the community has been helping each other.  
 

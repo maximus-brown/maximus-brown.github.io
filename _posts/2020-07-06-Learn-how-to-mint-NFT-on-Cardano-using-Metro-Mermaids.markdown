@@ -29,7 +29,7 @@ I'd also suggest being VERY careful what type of image you're uploading to ensur
 
 [![](/images/posts/how-to-mint-nft-on-cardano/pinata_1.png)](https://pinata.cloud/)  
 
-We're going to use Pinata to upload an image to [IPFS](https://docs.ipfs.io/concepts/what-is-ipfs/) which is ultimately the source for the image used in the NFT. An entirely separate article would need to be written about some of the pros and cons of using IPFS. Let's not digress 
+We're going to use Pinata to upload an image to [IPFS](https://docs.ipfs.io/concepts/what-is-ipfs/) which is ultimately the image source used in the minting process. An entirely separate article would need to be written about some of the pros and cons of using IPFS. For now let's focus on minting an NFT.
 
 Pinata has worked out well for me so far and I'm currently using their free tier. That being said, it's also totally fine to try alternative methods to upload images to IPFS if you prefer.  
 

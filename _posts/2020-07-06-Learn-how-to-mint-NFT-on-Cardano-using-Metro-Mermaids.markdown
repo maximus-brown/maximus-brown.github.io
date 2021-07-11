@@ -18,7 +18,7 @@ Feel free to check them out on Twitter! [@_mermada](https://twitter.com/_mermada
 
 Initially I started to put together my own step by step guide on how to mint NFTs, but [Crypto Slim's](https://youtu.be/YPvrfV4dkbM) how-to video already does a fantastic job explaining all the steps involved and the link is shown below.
 
-### [Click here for Crypto Slim's tutorial on YouTube](https://youtu.be/YPvrfV4dkbM)
+### [Click here for Crypto Slim's tutorial on YouTube](https://youtu.be/YPvrfV4dkbM)  
 
 Separately, here's a link to MermADA's minting tool so you have that handy for the video. 
 

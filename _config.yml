@@ -12,7 +12,7 @@ color_scheme: light # You can choose three modes auto, light, and dark. By defau
 # Author Settings
 author:
   author__name: Troy 
-  author__bio: Sharing my journey exploring the world of CNFTs on Cardano blockchain and as an artist myself creating some along the way.
+  author__bio: A newbie to the crypto space, I discovered Cardano early on in my journey while researching how to mint my own NFTs as an artist and creator. Along the way I started to look at other people's projects and I was amazed of all the creativity being put into each one. Many have brilliant ideas of where they envision the roadmap long-term and I was excited of the potential what they could turn into after the official release of smart contracts with Alonzo. I soon came to the conclusion that there needs to be a centralized place where newbies like myself could go to get started learning about new CNFT projects, and exciting updates to existing projects. And that's how Explore CNFTs was born!
   author__avatar: '/images/explore_cnfts/blog-profile-image.jpg'
 
 social:

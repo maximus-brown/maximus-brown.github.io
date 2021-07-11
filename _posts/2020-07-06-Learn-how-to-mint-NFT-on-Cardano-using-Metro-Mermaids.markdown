@@ -12,7 +12,7 @@ In the meantime there are still going to be folks like me who want to start mint
 
 Now, you might be wondering how is it even possible to mint NFTs on Cardano when smart contracts aren't yet available. The short answer is developers have figured out a way to hack together methods to make it work and some of the earliest NFT projects like [Spacebudz](https://spacebudz.io) were hugely successful selling out supply in a matter of days.
 
-A more technical explanation of how minting NFTs right now is possible can be seen straight from [Cardano's website.](https://cardano-ledger.readthedocs.io/en/latest/explanations/faq.html#cardano-native-tokens-vs-erc) 
+A more technical explanation of how minting NFTs is possible right now can be seen straight from [Cardano's website.](https://cardano-ledger.readthedocs.io/en/latest/explanations/faq.html#cardano-native-tokens-vs-erc) 
 
 Today I'll share one of the easiest and quickest ways to mint your own NFT in a matter of minutes using a simple tool built by [Metro Mermaids.](https://www.metromermaids.com) 
 

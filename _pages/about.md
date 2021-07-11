@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: '/images/cnfts_minted/a_night_on_the_town_edited_3.png'
+image: '/images/cnfts_minted/gardens_by_the_bay.png'
 ---
 
 A newbie to the crypto space, I discovered Cardano early on in my journey while researching how to mint my own NFTs as an artist and creator. Along the way I started to look at other people's projects and I was amazed of all the creativity being put into each one. Many have brilliant ideas of where they envision the roadmap long-term and I was excited of the potential what they could turn into after the official release of smart contracts with Alonzo. 

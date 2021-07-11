@@ -29,7 +29,7 @@ I'd also suggest being VERY careful what type of image you're uploading to ensur
 
 [![](/images/posts/how-to-mint-nft-on-cardano/pinata_1_5.png)](https://pinata.cloud/)  
 
-We're going to use Pinata to upload an image to [IPFS](https://docs.ipfs.io/concepts/what-is-ipfs/) which is ultimately the image source used in the minting process. An entirely separate article would need to be written about some of the pros and cons of using IPFS. For now let's focus on minting an NFT.
+We're going to use Pinata to upload an image to [IPFS](https://docs.ipfs.io/concepts/what-is-ipfs/) which is ultimately the image source used in the minting process. An entirely separate article would need to be written about some of the pros and cons of using IPFS. For now let's just focus on minting an NFT.
 
 Pinata has worked out well for me so far and I'm currently using their free tier. That being said, it's also totally fine to try alternative methods to upload images to IPFS if you prefer.  
 
@@ -45,7 +45,9 @@ A popup window should appear that looks like this:
 
 ![](/images/posts/how-to-mint-nft-on-cardano/pinata_8.png)  
 
-Upload your image and leave empty the field to input a custom name for a pin. Also leave unchecked the "Preserve file name" option. Click on the "Upload" button. I just used the image created for this tutorial.
+Upload your image, leave empty the "Custom Name for Pin" field, and keep unchecked the "Preserve file name" option. 
+
+Then, click on the "Upload" button. I just used the image created for this tutorial.
 
 ![](/images/posts/how-to-mint-nft-on-cardano/pinata_5.png)  
 
@@ -56,15 +58,14 @@ If you wait a few seconds you should now see the image link posted in your accou
 Now, let's switch gears.
 
 ### Step 2: Go to Metro Maids Minting Tool
-Go to the following URL:
+Metro Maids URL:  
 [https://www.metromermaids.com/mint-a-token/](https://www.metromermaids.com/mint-a-token/)  
 
 You should see a page like this.  
 <br/>
 ![](/images/posts/how-to-mint-nft-on-cardano/metro-maid-minting-tool.png)   
-We're basically going to be going thru each section one at a time. 
 
-Sections include:
+We're going to be covering the following sections:
 - NFT Short Name or Ticker
 - NFT Display Name
 - How many to mint

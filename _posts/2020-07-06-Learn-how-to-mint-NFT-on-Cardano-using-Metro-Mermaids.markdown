@@ -75,7 +75,8 @@ We're going to be covering the following input fields:
 - Metadata
 
 ### NFT Short Name or Ticker
-The short name I'm using is MyFirstNFT01, but feel free to use something else. Keep in mind the name can't have any spaces or special characters.  
+The short name I'm using is MyFirstNFT01, but feel free to use something else. Keep in mind that no spaces in the name are allowed.
+
 ![](/images/posts/how-to-mint-nft-on-cardano/metro-maid_2.png)  
 
 To help better explain what a short name is go to your Yoroi wallet in the Send section. Use the dropdown menu to select an asset and you'll start to see short names displayed for each NFT in your ADA wallet. In this case the short name is "Reflections01".
@@ -94,7 +95,9 @@ It's very important to ALWAYS leave this value as 1 if you truly want to create 
 ![](/images/posts/how-to-mint-nft-on-cardano/metro-maid_4.png)  
 
 ### NFT Receive Address
-This is probably one of trickiest parts if you're entirely new to Cardano and you don't have an accepted ADA wallet. 
+There are two reasons we need to provide a receive address. 
+- This helps lock down the policy for the NFT being minted
+- Once the NFT is minted it's sent to the receiving address 
 
 ![](/images/posts/how-to-mint-nft-on-cardano/metro-maid_6.png)  
 

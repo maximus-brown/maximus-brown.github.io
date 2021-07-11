@@ -26,6 +26,7 @@ Separately, here's a link to MermADA's minting tool so you have that handy for t
 
 ![](/images/posts/how-to-mint-nft-on-cardano/metro-maid-minting-tool.png)  
 
+### How is it possible to mint NFTs on Cardano without smart contracts?
 Now, you might be wondering how is it even possible to mint NFTs on Cardano when smart contracts aren't yet available. The short answer is developers have figured out a way to hack together methods to make it work and some of the earliest NFT projects like [Spacebudz](https://spacebudz.io) were hugely successful selling out supply in a matter of days.
 
 A more technical explanation of how minting NFTs is possible right now can be seen straight from [Cardano's website.](https://cardano-ledger.readthedocs.io/en/latest/explanations/faq.html#cardano-native-tokens-vs-erc) 

@@ -37,7 +37,7 @@ I wanted to share a few of my personal favorite Clays so far, but in all reality
 ![](/images/projects/header_images/claymates/claymates_1.gif)  
 
 ### So many more Claymates to check out!
-I've only given you a small sample of the much larger collection of characters in the Claymates family.
+I've only given you a small sample of the Claymates family.
 
 Feel free to check out what they're up to on Twitter [here @The_ClayMates.](https://twitter.com/The_ClayMates)
 

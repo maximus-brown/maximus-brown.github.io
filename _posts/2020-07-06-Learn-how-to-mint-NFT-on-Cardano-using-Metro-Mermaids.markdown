@@ -24,7 +24,7 @@ Separately, here's a link to MermADA's minting tool so you have that handy for t
 
 #### [https://www.metromermaids.com/mint-a-token/](https://www.metromermaids.com/mint-a-token/)
 
-Best wishes on your journey with Cardano! I've been pleasantly surprised with how warm and supportive the community has been helping each other.  
+Good luck and best wishes on your journey with Cardano! I've been pleasantly surprised with how warm and supportive the community has been helping each other.  
 
 ### Important Disclaimer
 I can't be held responsible or liable for your use of the information contained in or linked from these web pages. Please try at your own risk. 

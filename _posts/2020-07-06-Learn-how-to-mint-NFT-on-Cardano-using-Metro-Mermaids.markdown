@@ -6,11 +6,13 @@ date:   2019-01-29 18:05:55 +0300
 image:  '/images/posts/how-to-mint-nft-on-cardano/mint-nfts-on-cardano-blockchain.png'
 tags:   [minting]
 ---
-As I'm writing this article I realized the process of minting NFTs on Cardano blockchain is going to change dramatically in the near future after the official release of smart contracts with [Alonzo Goguen](https://roadmap.cardano.org/en/goguen/), but at the very least it might help a few folks eager to get started right away who want to be a part of history.
+The process of minting NFTs on Cardano blockchain is most likely going to change dramatically in the near future after the official release of smart contracts with [Alonzo Goguen](https://roadmap.cardano.org/en/goguen/), but that could still be at least a few months away. 
+
+In the meantime there are still going to be folks like me who want to start minting NFTs right away to be a part of history and early adopters. This how-to article is for you! 
 
 Now, you might be wondering how is it even possible to mint NFTs on Cardano when smart contracts aren't yet available. The short answer is developers have figured out a way to hack together methods to make it work and some of the earliest NFT projects like with [Spacebudz](https://spacebudz.io) were hugely successful selling out supply in a matter of days.
 
-A more technical explanation can be seen straight from [Cardano's website.](https://cardano-ledger.readthedocs.io/en/latest/explanations/faq.html#cardano-native-tokens-vs-erc) 
+A more technical explanation of how this is possible can be seen straight from [Cardano's website.](https://cardano-ledger.readthedocs.io/en/latest/explanations/faq.html#cardano-native-tokens-vs-erc) 
 
 Today I'll share one of the easiest and quickest ways to mint your own NFT in a matter of minutes using a simple tool built by [Metro Mermaids.](https://www.metromermaids.com) 
 
@@ -19,14 +21,14 @@ I can't be held responsible or liable for your use of the information contained 
 
 # Let's get started!
 
-### Let's go to Pinata:
+### Go to Pinata:
 [https://pinata.cloud/](https://pinata.cloud/)  
 
 ![](/images/posts/how-to-mint-nft-on-cardano/pinata_1.png)  
 
-We're going to use Pinata to upload an image to [IPFS](https://docs.ipfs.io/concepts/what-is-ipfs/) which is ultimately used as the image source for our minted NFT. 
+We're going to use Pinata to upload an image to [IPFS](https://docs.ipfs.io/concepts/what-is-ipfs/) which is ultimately the image source for our minted NFT. 
 
-Since this is your first NFT minted on Cardano, find an image that you're completely fine with messing up on and uploading to a place that everyone has access to see. Once images are uploaded to IPFS there's no turning back and they can't be deleted ever!
+Find an image that you're completely fine with messing up on and uploading to a place where everyone has access to see without restrictions. Once images are uploaded to IPFS there's no turning back and they can't be deleted ever!
 
 I'd also suggest being VERY careful what type of image you're uploading to ensure you don't break any copyright infringements.  
 

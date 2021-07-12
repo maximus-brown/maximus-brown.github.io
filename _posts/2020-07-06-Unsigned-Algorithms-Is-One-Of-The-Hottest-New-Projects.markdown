@@ -29,6 +29,8 @@ There are several other spinoff projects starting up, I've only shared one.
 ### Active on Twitter
 One of the best ways to see what they're up to is to visit them on Twitter. [@unsigned_algo](https://twitter.com/unsigned_algo)
 
+![](/images/posts/unsigs-is-hot/unsigs_4.png)  
+
 Now that they've gotten a big boost in funding from their first art collection drop, it's very possible they have more plans ahead to make it even better. Should be intereseting to follow. 
 
 Until next time take care!

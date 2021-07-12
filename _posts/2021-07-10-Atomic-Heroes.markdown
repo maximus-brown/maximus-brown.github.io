@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  Atomic Heroes Art Collections
-description: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative a...
+description: A Science fantasty action adventure based on elements of the periodic table
 date:   2021-07-10 15:01:35 +0300
 image:  '/images/projects/header_images/atomic_minions/atomic_minions_4.gif'
 tags:   [art]
 ---
+The Atomic 
 ### Website
 [https://theatomicheroes.com](https://theatomicheroes.com)
 

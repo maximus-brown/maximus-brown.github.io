@@ -21,10 +21,10 @@ I wanted to share a few of my personal favorite Clays so far, but in all reality
 ### Papa's Garage || Motorbike Orange Sun
 ![](/images/posts/favorite-claymates/garage_motorbike_orange_sun.gif)  
 
-### Danny S Pacey ()
+### Danny S Pacey || Shooting Stars
 ![](/images/posts/favorite-claymates/danny_s_pacey_1.gif)  
 
-### Humphrey Whaleson (Candyfloss background)
+### Humphrey Whaleson || Candyfloss 
 ![](/images/posts/favorite-claymates/humphrey_candyfloss.gif)  
 
 ### Pet Shop || Fish
@@ -40,6 +40,8 @@ I wanted to share a few of my personal favorite Clays so far, but in all reality
 I've only given you a small sample of the Claymates family.
 
 Feel free to check out what they're up to on Twitter [here @The_ClayMates.](https://twitter.com/The_ClayMates)
+
+Alternatively, you can explore all their collections straight on their website [here!](https://www.claymates.org/discover)
 
 Until next time take care!
 

@@ -8,15 +8,16 @@ tags:   [animation, art]
 ---
 [Claymates](https://www.claymates.org) is by far one of my favorite projects so far because of the uniqueness put into each of the cute stop motion figures and characters, their low minted rarities, and how engaged the project creators are in the [Discord](https://discord.gg/8HpNU9Q9) community. 
 
-I also like that they continue to surprise art collectors for new drops released with something entirely new and unexpected. 
+Another thing I like is they continue to surprise art collectors with clever new characters on drops. 
 
-For example, they recently announced they've been working on a collaboration project with [Spacebudz](https://spacebudz.io/) and the first drop for a handful of these Spacebudz characters is scheduled to be on Saturday, July 17th. 
+For example, they recently announced a collaboration project with [Spacebudz](https://spacebudz.io/) and the first drop is scheduled to be on Saturday, July 17th for handful of the original characters.  
 
 ![](/images/posts/favorite-claymates/claymates-spacebudz-collab_1.png)  
 
 The full teaser video can be seen on Pool.pm [here.](https://pool.pm/f945eef343e1a08919c3a58ac599a84ba2f25eb8a7d3b1663b8a2687.ClayMatesExtra329)  
 
-I wanted to share a few of my personal favorite Clays so far, but in all reality I like almost all of them! There is no particular ranking order in the Claymates shared below. 
+## A few personal favorites
+Here are a few of my personal favorite Clays so far, but in all reality I like almost all of them! There is no particular ranking order in the Claymates shared below. 
 
 ### Papa's Garage || Motorbike Orange Sun
 ![](/images/posts/favorite-claymates/garage_motorbike_orange_sun.gif)  

@@ -2,7 +2,7 @@
 layout: post
 title:  Atomic Heroes Art Collections
 description: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative a...
-date:   2021-07-09 15:01:35 +0300
+date:   2021-07-10 15:01:35 +0300
 image:  '/images/projects/header_images/atomic_minions/atomic_minions_4.gif'
 tags:   [art]
 ---

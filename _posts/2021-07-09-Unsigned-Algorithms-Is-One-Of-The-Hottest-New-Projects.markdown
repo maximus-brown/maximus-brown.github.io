@@ -2,7 +2,7 @@
 layout: post
 title:  unsigned_algorithms Is Sizzling Hot
 description: The unsigned_algorithms project is hot and there's no sign of slowing down anytime soon.
-date:   2021-07-10 18:05:55 +0300
+date:   2021-07-09 18:05:55 +0300
 image:  '/images/projects/header_images/unsigs/unsigs_1.png'
 tags:   [data visualization, art]
 ---

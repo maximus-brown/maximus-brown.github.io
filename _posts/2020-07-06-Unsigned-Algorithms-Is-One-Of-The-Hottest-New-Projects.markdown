@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  One of the hottest new projects is unsigned_algorithms
+title:  unsigned_algorithms Is Sizzling Hot
 description: The unsigned_algorithms project is hot and there's no sign of it slowing down anytime soon.
 date:   2019-01-29 18:05:55 +0300
 image:  '/images/projects/header_images/unsigs/unsigs_1.png'

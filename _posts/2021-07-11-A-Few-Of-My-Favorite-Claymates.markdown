@@ -10,7 +10,7 @@ tags:   [animation, art]
 
 Another thing I like is they continue to surprise art collectors with clever new characters on drops. 
 
-For example, they recently announced a collaboration project with [Spacebudz](https://spacebudz.io/) and the first drop is scheduled to be on Saturday, July 17th for handful of the original characters.  
+For example, they recently announced a collaboration project with [Spacebudz](https://spacebudz.io/) and the first drop is scheduled to be on Saturday, July 17th for a handful of the original characters.  
 
 ![](/images/posts/favorite-claymates/claymates-spacebudz-collab_1.png)  
 

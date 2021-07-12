@@ -36,7 +36,7 @@ If you'd like to find out what the Atomic Heroes team you can check them out on 
 Twitter || [@AtomicHeroes](https://twitter.com/AtomicHeroes)  
 Discord || [https://discord.gg/4qd2hWGeWM](https://discord.gg/4qd2hWGeWM)
 
-Until next time take care!
+Until next time take care!  
 
 ### Important Disclaimer
 I can't be held responsible or liable for your use of the information contained in or linked from these web pages. Please try at your own risk.

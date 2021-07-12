@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  A Few Of My Favorite Claymates
-description: Narrowed down to some of my favorite Claymates minted so far, but it was tough to do!
+description: Check out a few of my favorite Claymates minted so far. 
 date:   2020-04-24 15:01:35 +0300
 image:  '/images/projects/header_images/claymates/claymates_1.gif'
 tags:   [animation, art]

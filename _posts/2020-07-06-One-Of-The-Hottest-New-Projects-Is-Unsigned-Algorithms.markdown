@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  unsigned_algorithms
+title:  One of the hottest new projects is unsigned_algorithms
 description: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative a...
 date:   2019-01-29 18:05:55 +0300
 image:  '/images/projects/header_images/unsigs/unsigs_1.png'

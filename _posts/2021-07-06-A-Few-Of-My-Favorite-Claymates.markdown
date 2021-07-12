@@ -34,7 +34,7 @@ I wanted to share a few of my personal favorite Clays so far, but in all reality
 ![](/images/posts/favorite-claymates/garage_old_banger.gif)  
 
 ### Hatch-a-balls || Fire
-![](/images/projects/header_images/claymates/claymates_1.gif)  
+![](/images/posts/favorite-claymates/hatch_fire.gif)   
 
 ### So many more Claymates to check out!
 I've only given you a small sample of the Claymates family.

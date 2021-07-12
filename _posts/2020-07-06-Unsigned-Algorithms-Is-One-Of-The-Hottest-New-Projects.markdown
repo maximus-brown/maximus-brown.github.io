@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  One of the hottest new projects is unsigned_algorithms
-description: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative a...
+title:  unsigned_algorithms Is Hot
+description: One of the newest projects released has turned into one of the hottest in a short period of time. 
 date:   2019-01-29 18:05:55 +0300
 image:  '/images/projects/header_images/unsigs/unsigs_1.png'
 tags:   [data visualization, art]

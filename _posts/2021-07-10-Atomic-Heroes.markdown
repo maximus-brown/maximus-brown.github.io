@@ -14,16 +14,16 @@ There are currently two art collections being released as NFTs for both Atomic M
 Here are a few samples of art from the Atomic Minions Art Collection I like, but there will ultimately be 10,000 Atomic Minions when the collection is fully sold.
 
 <div class="gallery" data-columns="3">
-	<img src="/images/projects/atomic_minions/1.png">
-	<img src="/images/projects/atomic_minions/2.png">
-	<img src="/images/projects/atomic_minions/3.png">
-	<img src="/images/projects/atomic_minions/4.png">
-	<img src="/images/projects/atomic_minions/5.png">
-	<img src="/images/projects/atomic_minions/6.png">
-	<img src="/images/projects/atomic_minions/7.png">
-	<img src="/images/projects/atomic_minions/8.png">
-	<img src="/images/projects/atomic_minions/9.png">
-	<img src="/images/projects/atomic_minions/10.png">
+<img src="/images/projects/atomic_minions/1.png">
+<img src="/images/projects/atomic_minions/2.png">
+<img src="/images/projects/atomic_minions/3.png">
+<img src="/images/projects/atomic_minions/4.png">
+<img src="/images/projects/atomic_minions/5.png">
+<img src="/images/projects/atomic_minions/6.png">
+<img src="/images/projects/atomic_minions/7.png">
+<img src="/images/projects/atomic_minions/8.png">
+<img src="/images/projects/atomic_minions/9.png">
+<img src="/images/projects/atomic_minions/10.png">
 </div>
 
 ### Atomic Heroes Art Collection

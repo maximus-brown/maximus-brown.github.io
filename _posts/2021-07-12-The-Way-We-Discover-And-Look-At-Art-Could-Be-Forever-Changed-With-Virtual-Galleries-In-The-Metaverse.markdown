@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The future of discovering and seeing art could be walking around virtual galleries in the Metaverse.
+title:  The way we discover and see art could be forever changed with virtual galleries in the Metaverse.
 description: Taking a walk around some virtual art galleries in Artsteps
 date:   2021-07-12 15:01:35 +0300
 image:  '/images/posts/artsteps/artsteps_2.png'

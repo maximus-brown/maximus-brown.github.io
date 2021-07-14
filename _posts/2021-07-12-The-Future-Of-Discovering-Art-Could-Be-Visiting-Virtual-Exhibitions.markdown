@@ -12,7 +12,7 @@ The way we discover and look at art from artists around the world could be on th
 To get a taste of what I'm talking about check it out by tapping on the image below. Please be patient while the gallery loads all the images, it might take a little time. Technology and internet speeds will need to be improved quite a bit in the future for virtual galleries to really take off, but I do believe it will happen.  
 
 [![](/images/posts/artsteps/artsteps_3.png)](https://www.artsteps.com/view/60d92d3d7c2f53a86aa07ada)  
-The art piece above is actually my favorite so far in this gallery and it was created by [Yassin Hassan](https://twitter.com/CnftHassan). Love this artist's work. 
+The art piece shown above on the right side with the cat and little kid staring into the distance is my favorite so far in this gallery and it was created by [Yassin Hassan](https://twitter.com/CnftHassan). Love this artist's work. 
 
 A few things I don't yet like about virtual art galleries and metaverse worlds is how slow it can be to walk around. It can be a little frustrating at times waiting for the browser window to load images. In fact, I think there needs to be a huge boost in dowload times. Hopefully the continual rollout of 5G will help. 
 

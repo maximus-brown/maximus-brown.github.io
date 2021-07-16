@@ -1,0 +1,89 @@
+#-------------------------------
+# Site Settings
+title: Explore CNFTs
+logo: # You can add own logo. For example '/images/logo.png'.
+description: Sharing my journey exploring the world of CNFTs on Cardano blockchain and as an artist myself creating some along the way.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+color_scheme: light # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+
+
+#-------------------------------
+# Author Settings
+author:
+  author__name: Troy 
+  author__bio: A newbie to the crypto space, I discovered Cardano early on in my journey while researching how to mint my own NFTs as an artist and creator. Along the way I started to look at other people's projects and I was amazed of all the creativity being put into each one. And that's how Explore CNFTs was born!
+  author__avatar: '/images/explore_cnfts/blog-profile-image.jpg'
+
+social:
+- {icon: "ion-logo-twitter", link: "https://twitter.com/explore_cnfts"}
+
+# Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
+# Other icons can be found at https://ionicons.com/v4/
+
+
+#-------------------------------
+# Hero Settings
+hero:
+  hero__title: Hey, I’m Troy
+  hero__description: Sharing my journey exploring the world of CNFTs on Cardano blockchain and as an artist myself creating some along the way.
+  hero__image: '/images/cnfts_minted/a_night_on_the_town_edited_3.png'
+
+
+#-------------------------------
+# Newsletter
+mailchimp:  # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
+mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+mailchimp__input__text: Subscribe here
+mailchimp__button__text: Get a new tip
+
+
+#-------------------------------
+# Gallery Footer Section
+
+
+#-------------------------------
+# Contact Settings
+contact:
+  email: your@email.com # Add your email for contant form
+  description: Menso comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+
+# NOTE
+# Menso theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: demo-menca # Add your shortname for Disqus Comment. For example demo-menca
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your GA Tracking Id
+
+
+#-------------------------------
+# Build Settings
+markdown: kramdown
+permalink: /:title
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+paginate: 9
+paginate_path: "/page/:num"
+
+# Pages Path
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext
+
+
+include:
+  - _pages
+
+sass:
+  sass_dir: _sass
+  style: compressed

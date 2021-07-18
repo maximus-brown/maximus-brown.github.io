@@ -11,4 +11,4 @@ I soon came to the conclusion that there needs to be a centralized place where n
 
 The focus will fully be around Cardano projects that are creating CNFTs, adding utility, and hopefully soon exploring some amazing new Metaverse worlds after smart contracts are live. I'm super excited about the future of Cardano and I want to be a part of it in some small way. 
 
-Feel free to reach out to me on Twitter. [@explore_cfts](https://twitter.com/explore_nfts) 
+Feel free to reach out to me on Twitter. [@explore_nfts](https://twitter.com/explore_nfts) 

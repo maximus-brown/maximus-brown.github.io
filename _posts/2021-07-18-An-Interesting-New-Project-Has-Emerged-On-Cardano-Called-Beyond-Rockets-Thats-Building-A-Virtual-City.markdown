@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  An interesting new project has emerged focused on building a city on top of Cardano blockchain.
-description: Building a city of NFTs on top of Cardano blockchain
+title:  An interesting new Cardano project has emerged called Beyond Rockets that's focused on building a virtual city.
+description: Building a virtual city of NFTs on top of Cardano blockchain
 date:   2021-07-12 15:01:35 +0300
 image:  '/images/posts/beyond_rockets/beyond_rockets.png'
 tags:   [art, city, metaverse]

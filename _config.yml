@@ -16,7 +16,7 @@ author:
   author__avatar: '/images/explore_cnfts/blog-profile-image.jpg'
 
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com/explore_cnfts"}
+- {icon: "ion-logo-twitter", link: "https://twitter.com/explore_nfts"}
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/

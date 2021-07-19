@@ -9,7 +9,7 @@ tags:   [art, city, metaverse]
 
 Cardano Tower will be the heart of a new virtual city created by Beyond Rockets and collectors can be a part of it by owning pieces of property like rooms, a cafe, and more. 
 
-The first drop of a limited set of 100 rooms sold out in a matter of minutes and they ulimately became early key holders to the city, but there are of course future plans to build upon what they've started with more rooms and creating other parts the city like the newest development of a cafe. 
+The first drop of a limited set of 100 rooms sold out in a matter of minutes and they ulimately became early key holders to the city, but there are of course future plans to build upon what they've started with more rooms and creating other parts the city like the upcoming village drop which will be houses. 
 
 ### First Rooms and Keyholders To The City
 Here's a quick peak at a few of the rooms so far. Initial owners of these rooms were given commerative first keys to the city that are separate NFTs than the original rooms. And these keys can unlock entirely new rooms which were also given to the same original art collectors.  

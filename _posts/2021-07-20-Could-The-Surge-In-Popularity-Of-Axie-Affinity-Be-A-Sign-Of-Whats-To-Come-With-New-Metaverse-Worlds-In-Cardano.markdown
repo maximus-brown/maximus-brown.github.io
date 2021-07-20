@@ -2,7 +2,7 @@
 layout: post
 title:  Could the surge in popularity of blockchain games like Axie Affinity be a sign of what's to come for new games being built on Cardano?
 description: Metaverse worlds and games on blockchain
-date:   2020-07-12 15:01:35 +0300
+date:   2021-07-20 15:01:35 +0300
 image:  '/images/posts/blockchain_games_new/blockchain_games_1.png'
 tags:   [games, utility, metaverse]
 ---

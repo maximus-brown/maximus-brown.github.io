@@ -16,11 +16,9 @@ One of the key differences between traditional games we've played in the past ve
 Axie Affinity has changed peoples lives in developing countries like in the Philippines. During COVID-19 when most places were shut down  people of all ages were learning how to earn income playing this game. 
 
 ## Breeding
-Being able to create and breed new characters on the blockchain that you own and can sell on the marketplace seems like fun entertainment, but imagine in the future developers creating educational games where students could enjoy learning and in turn if they pass certain levels of the course they could earn rewards as NFTs that can be kept in their wallet. 
-
 ![](/images/posts/blockchain_games_new/blockchain_games_3.png)  
 
-![](/images/posts/blockchain_games_new/blockchain_games_2.png)  
+Being able to create and breed new characters on the blockchain that you own and can sell on the marketplace seems like fun entertainment, but imagine in the future developers creating educational games where students could enjoy learning and in turn if they pass certain levels of the course they could earn rewards as NFTs that can be kept in their wallet. 
 
 As of right now educational games on blockchains are limited, but I think that's going to change soon with Cardano after the release of Alonzo for smart contracts. Gas fees on Etherium are still too expensive at the moment. Maybe things will change with ETH 2.0, but that might be a year away. 
 

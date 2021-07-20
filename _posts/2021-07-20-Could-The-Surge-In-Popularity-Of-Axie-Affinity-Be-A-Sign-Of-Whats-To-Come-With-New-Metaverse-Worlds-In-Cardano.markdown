@@ -3,7 +3,7 @@ layout: post
 title:  Could the surge in popularity of blockchain games like Axie Affinity be a sign of what's to come for new games being built on Cardano?
 description: Metaverse worlds and games on blockchain
 date:   2021-07-20 15:01:35 +0300
-image:  '/images/posts/blockchain_games_new/blockchain_games_1.png'
+image:  '/images/posts/blockchain_games_new/blockchain_games_4.png'
 tags:   [games, utility, metaverse]
 ---
 The recent surge in popularity of ETH games like [Axie Affinity](https://axieinfinity.com) and [My Defi Pet](https://mydefipet.com) could be a telling sign of what's to come with new games being developed on Cardano.  

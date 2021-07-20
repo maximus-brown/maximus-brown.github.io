@@ -3,7 +3,7 @@ layout: post
 title:  Could the surge in popularity of blockchain games like Axie Affinity be a sign of what's to come for new games being built on Cardano?
 description: Metaverse worlds and games on blockchain
 date:   2020-07-12 15:01:35 +0300
-image:  '/images/posts/blockchain_games/blockchain_games_1.png'
+image:  '/images/posts/blockchain_games_new/blockchain_games_1.png'
 tags:   [games, utility, metaverse]
 ---
 The recent surge in popularity of ETH games like [Axie Affinity](https://axieinfinity.com) and [My Defi Pet](https://mydefipet.com) could be a telling sign of what's to come with new games being developed on Cardano.  
@@ -18,7 +18,7 @@ Axie Affinity has changed peoples lives in developing countries like in the Phil
 ## Breeding
 Being able to create and breed new characters on the blockchain that you own and can sell on the marketplace seems like fun entertainment, but imagine in the future developers creating educational games where students could enjoy learning and in turn if they pass certain levels of the course they could earn rewards as NFTs that can be kept in their wallet. 
 
-![](/images/posts/blockchain_games/blockchain_games_1.png)
+![](/images/posts/blockchain_games_new/blockchain_games_2.png)
 
 As of right now educational games on blockchains are limited, but I think that's going to change soon with Cardano after the release of Alonzo for smart contracts. Gas fees on Etherium are still too expensive at the moment. Maybe things will change with ETH 2.0, but that might be a year away. 
 

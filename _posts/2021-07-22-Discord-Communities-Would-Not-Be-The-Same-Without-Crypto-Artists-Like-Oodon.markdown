@@ -3,17 +3,17 @@ layout: post
 title:  Discord communities would not be the same without crypto artists like Oodon.
 description: Fan artists in Discord communities can have a  positive influence in our enjoyment of exploring CNFT projects
 date:   2021-07-22 15:01:35 +0300
-image:  '/images/posts/oodon/oodon_1.png'
+image:  '/images/posts/oodon/oodon_24.png'
 tags:   [art, city, metaverse]
 ---
-It was only just three months ago when I started learning about cryptos for the first time and getting plugged into Discord communities to learn more about Cardano NFT projects. Coming in I really had no expectations of what the journey would be like and in fact I wasn't sure my interest would last long.
+It was only just four months ago when I started learning about cryptos for the first time and getting plugged into Discord communities to learn more about Cardano NFT projects. Coming in I really had no expectations of what the journey would be like and in fact I wasn't sure my interest would last long.
 
-In this very early stage of exploring projects I would notice some servers having #fan-art sections where artists not part of the original creators team would freely share their own artistic spin and hybrid of original character designs. 
+In this very early stage of exploring projects I would notice some servers having #fan-art sections where artists that weren't part of original creator teams would freely share their own artistic spin and hybrids of original character designs.
 
 ![](/images/posts/oodon/oodon_21.JPG)  
-For example, the artwork above by [@itsoodon](https://twitter.com/itsoodon) is a clever way to include the success of achieving a Level 10 status for one of your [SushiBytes](https://www.sushibyte.io) when playing their new blockchain battle game.
+For example, the artwork above by [@itsoodon](https://twitter.com/itsoodon) is a clever way to include the success of achieving a Level 10 status for one of your [SushiBytes](https://www.sushibyte.io) when playing their new blockchain battle game that's still in beta.
 
-To get to Level 10 is a big deal given how much time and effort is involved by players to get there. Once smart contracts are offially rolled out with the Alonzo release they have exciting plans for game enhancements and developments. 
+To get to Level 10 is a big deal given how much time and effort is involved by players to get there. The SushiBytes team have exciting game development plans in the future after the offical release of smart contracts after the Alonzo fork.
 
 Here's another one by Oodon that combines two projects into one art piece including [SushiBytes](https://www.sushibyte.io) and [Yummi Universe](https://yummiuniverse.com). 
 

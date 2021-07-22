@@ -2,7 +2,7 @@
 layout: post
 title:  Discord communities would not be the same without crypto artists like Oodon.
 description: Fan artists in Discord communities can have a  positive influence in our enjoyment of exploring CNFT projects
-date:   2020-07-17 15:01:35 +0300
+date:   2021-07-22 15:01:35 +0300
 image:  '/images/posts/oodon/oodon_1.png'
 tags:   [art, city, metaverse]
 ---

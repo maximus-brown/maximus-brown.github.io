@@ -55,6 +55,8 @@ Feel free to check out what Oodon is up to on Twitter in the link below.
 
 Twitter || [@itsoodon](https://twitter.com/itsoodon) 
 
+Keep your eye out for an upcoming article that will be written on another amazing crypto artist [@isladiwa](https://twitter.com/isladiwa) ! I'll be sharing more about her story and newest project called [Isladiwa](https://isladiwa.org) . 
+
 Also, below is where you can check out what SushiBytes and Yummy Universe are up to.
 
 Twitter || [@Sushi_Bytes](https://twitter.com/Sushi_Bytes)  

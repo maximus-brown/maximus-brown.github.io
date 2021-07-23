@@ -43,7 +43,7 @@ In Oodon's own words...
 ## Long-term Aspirations for Oodon
 One of Oodon's long-term goals as an artist is to be able to inspire others, especially the younger generation to start doodling and drawing. 
 
-What a wondering thing to have that as an important part of your aspirations. I would attest you've already started to do that with some of your work in the community now! 
+What a wonderful thing to have that as an important part of your aspirations. I would attest you've already started to do that with some of your work in the community now! 
 
 ![](/images/posts/oodon/oodon_5.jpeg)  
 
@@ -54,6 +54,12 @@ Thank you so much for sharing your work with the community and adding positive v
 Feel free to check out what Oodon is up to on Twitter in the link below. 
 
 Twitter || [@itsoodon](https://twitter.com/itsoodon) 
+
+Also, below is where you can check out what SushiBytes and Yummy Universe are up to.
+
+Twitter || [@Sushi_Bytes](https://twitter.com/Sushi_Bytes)  
+
+Twitter || [@YummiUniverse](https://twitter.com/YummiUniverse)  
 
 Until next time, take care! 
 

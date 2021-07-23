@@ -11,7 +11,7 @@ It was only just four months ago when I started learning about cryptos for the f
 In this very early stage of exploring projects I would notice some servers having #fan-art sections where artists that weren't part of original creator teams would freely share their own artistic spin and hybrids of original character designs.
 
 ![](/images/posts/oodon/oodon_21.JPG)  
-For example, the artwork above by [@itsoodon](https://twitter.com/itsoodon) is a clever way to include the success of achieving a Level 10 status for one of your [SushiBytes](https://www.sushibyte.io) when playing their new blockchain battle game that's still in beta.
+For example, the artwork above by [@itsoodon](https://twitter.com/itsoodon) is a clever way to include the success of achieving a Level 10 status for one of your [SushiBytes](https://www.sushibyte.io) when playing their new battle game that's still in beta until smart contracts are ready.
 
 To get to Level 10 is a big deal given how much time and effort is involved by players to get there. The SushiBytes team have exciting game development plans in the future after the offical release of smart contracts after the Alonzo fork.
 

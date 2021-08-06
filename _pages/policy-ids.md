@@ -9,15 +9,13 @@ A list of all policies IDs for minted art collections are included on this page.
 
 ## Policy IDs
 {
-    "project": "ExploreNFTs",
+    "project": "Explore NFTs",
     "tags": [
         "Explore NFTs",
         "ExploreNFTs",
         "www.explorenfts.com"
     ],
     "policies": [
-        "da48a61184b1b8d384cbf264b709069a6dcf7f33a4ad4ffff5a1763d",
-        "5d77bf0a59c84abcbf59c2af5e3234b31fe99cdca626786e00a49f5c",
-        "71433a2ecbc83fef5b60d5f72a0674785359cb2d386159a431916a23"
+        "dd85c4681499db38fa02b9e911fd3f6ee9e4628d5a792940ae041bff"
     ]
 }

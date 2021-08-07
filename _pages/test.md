@@ -26,13 +26,13 @@ In fact, isladiwa was originally created to help support these two initiatives I
 
 ![](/images/posts/isladiwa/isladiwa_2.png) 
 
-When I was a kid our family adopted a [Welsh Corgi](https://en.wikipedia.org/wiki/Welsh_Corgi) breed and his name was Corki. He was a cute little puppy and he lived a long and happy life. The first day he walked into his new home he was so excited to be a part of our family. It was a special day. 
+Growing up as a kid I've personally seen and experienced how special it is to adopt a dog when our family decided to take one home to be a part of the family. He was a cute little puppy named Corki that ultimately lived a long and happy life. The first day he was so excited that someone picked him to be a part of a home, but it took some time for him to be reassured it wasn't temporary. It was a special day and I'm thrilled to see organizations like isladiwa and the PAWSsion Project try to help dogs live a better life. 
 
 The isladiwa organization also helps support and share about other local artists work in the Philippines like this one from [@OlieMerza](https://twitter.com/OlieMerza). 
 
 ![](/images/posts/isladiwa/isladiwa_8.jpeg) 
 
-
+I'm excited about the future of isladiwa and the positive impact they're making. 
 
 > "The name of the project, isladiwa, was derived from the words “isla” meaning island, and “diwa”, meaning soul, spirit, and sense. With these words combined, isladiwa alludes to the island of souls."
 

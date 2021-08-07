@@ -41,15 +41,15 @@ Feel free to check out her most recent art [here!](https://www.behance.net/asahi
 ## Q&A Session with ReiKo
 On a different note, ReiKo was kind enough to answer a few questions I had.
 
-### What are you most excited about in the CNFT space in the next 5 years?
+What are you most excited about in the CNFT space in the next 5 years?
 
 > I'm excited for CNFTs integrated with smart contracts, use cases, functionality. To see CNFT creators who put so much hardwork and passion to their craft bear fruits. Also so excited  to see what isladiwa does in the next 5 years and the amount of community it helped.
 
-### What is one thing you enjoy about being involved and active in Cardano related projects?
+What is one thing you enjoy about being involved and active in Cardano related projects?
 
 > Treasuring precious friendships that I have made and still continuing to make. To see people who enjoy art and seeing that it change their lives
 
-### What are you hoping NFT projects as a whole will accomplish in the world longer term?
+What are you hoping NFT projects as a whole will accomplish in the world longer term?
 
 > Sustainablility, a creative diverse community. Better environment for artists and collectors abolish fraud, inequality. People really just enjoying the art backed by blockchain
 

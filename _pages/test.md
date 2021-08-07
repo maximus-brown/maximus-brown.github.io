@@ -53,28 +53,7 @@ On a different note, ReiKo was kind enough to answer a few questions I had.
 
 > Sustainablility, a creative diverse community. Better environment for artists and collectors abolish fraud, inequality. People really just enjoying the art backed by blockchain
 
-
-
-
-
-i work with lots of friend artists from here in PH
-but the vision/storyline is partly me and writers aswell :))
-
-
-
-this are the tokens forever keeping them T^T
-
-
-Presenting The Reiko Appreciation Collection! All proceeds will go to her. The total mint for each piece is 11.
-
-#ThankYouReiko , the community wouldn’t be the same without you.
-
-https://twitter.com/boba_bits/status/1409179747431555075?s=20
-
-https://twitter.com/2140withspaces/status/1409188986246111233?s=20
-
-
-
+Well, that wraps up my story of ReiKo and the exciting new journey she's started creating isladiwa and riding the wave of Cardano. Thank you so much for taking the time to read this article and supporting good causes like this. 
 
 Until next time, take care! 
 

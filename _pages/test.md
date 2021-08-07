@@ -4,7 +4,9 @@ layout: page
 permalink: /test/ 
 image: '/images/posts/isladiwa/isladiwa_3.png'
 ---
-Cardano based creator, artist, and contributor Reiko from the Philippines is quite the busy bee. It's easy to see her genuine passion with being involved in the Cardano community across several projects. 
+Cardano based creator, artist, and contributor [Reiko](https://twitter.com/isladiwa) from the Philippines is quite the busy bee. It's easy to see her genuine passion with being involved in the Cardano community across several projects. 
+
+![](/images/posts/isladiwa/isladiwa_2.png) 
 
 Outside of the crypto world she's also a Dentistry student who loves animals, surfing, nature, traveling, games, and making new friends across the world. 
 
@@ -17,6 +19,8 @@ The artists on the team are creating amazing work like the one piece above calle
 These beautiful art pieces are minted as NFTs and proceeds are used to support some very important initiatives including the [PAWSsion Project](https://pawssionproject.org.ph/), which is  and BAYANInitiatives.
 
 BAYANInitiatives is a non-profit organization dedicated to the rescue, rehabilitation and rehoming of dogs in distress. 
+
+
 
 In fact, isladiwa was originally created to help support the two initiatives I mentioned above and originally birthed as a Discord community.
 

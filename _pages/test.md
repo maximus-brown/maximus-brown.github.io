@@ -7,11 +7,11 @@ image: ''
 
 Cardano based creator, artist, and contributor Reiko from the Philippines is quite the busy bee. It's easy to see her genuine passion with being involved in the Cardano community across several projects. Outside of the crypto world she's also a Dentistry student who loves animals, surfing, nature, traveling, games, and making new friends across the world. 
 
-As I'm writing this article I'm certain there are things I'm missing in her contributions to making this world a better place, but I'd to share about one special project in particular she cofounded in March 2021 with Mr. World called "isladiwa". The team has now grown to eight that includes talented artists, developers, and writers. 
+As I'm writing this article I'm certain there are things I'm missing in her contributions to help make Earth a better place, but I'd to share about one special project in particular she cofounded in March 2021 with Mr. Wolf called "isladiwa". The team has now grown to eight and includes talented artists, developers, and writers.
 
 ![](/images/posts/isladiwa/isladiwa_1.jpeg) 
 
-The artists on the team are creating amazing work like the one piece above called Bukang-Liwayway. These art pieces are minted as NFTs and proceeds are used to support some very important initiatives in the world including the PAWSsion Project and BAYANInitiatives.
+The artists on the team are creating amazing work like the one piece above called Bukang-Liwayway. These beautiful art pieces are minted as NFTs and proceeds are used to support some very important initiatives including the PAWSsion Project and BAYANInitiatives.
 
 In fact, isladiwa was originally created to help support these two initiatives.
 
@@ -19,11 +19,6 @@ In fact, isladiwa was originally created to help support these two initiatives.
 
 The name isladiwa was derived from the words “isla” meaning island, and “diwa”, meaning soul, spirit, and sense. With these words combined, isladiwa alludes to the island of souls.
 
-
-
-
-
- came across Cardano that I resonate so much with its vision and goals.
 
 
 What are you most excited about in the CNFT space in the next 5 years?

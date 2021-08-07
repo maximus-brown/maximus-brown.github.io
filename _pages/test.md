@@ -26,7 +26,9 @@ In fact, isladiwa was originally created to help support these two initiatives I
 
 ![](/images/posts/isladiwa/isladiwa_2.png) 
 
-Growing up as a kid I've personally seen and experienced how special it is to adopt a dog when our family decided to take one home to be a part of the family. He was a cute little puppy named Corki that ultimately lived a long and happy life. The first day he was so excited that someone picked him to be a part of a home, but it took some time for him to be reassured it wasn't temporary. It was a special day and I'm thrilled to see organizations like isladiwa and the PAWSsion Project try to help dogs in need live a better life. 
+Growing up as a kid I've personally seen and experienced how special it is to adopt a dog when our family decided to take one home to be a part of the family. 
+
+He was a cute little puppy named Corki that ultimately lived a long and happy life. The first day he was so excited that someone picked him to be a part of a home, but it took some time for him to be reassured it wasn't temporary. It was a special day and I'm thrilled to see organizations like isladiwa and the PAWSsion Project try to help dogs in need live a better life. 
 
 The isladiwa organization also helps share about other local artists in the Philippines like this one from [@OlieMerza](https://twitter.com/OlieMerza). 
 

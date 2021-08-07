@@ -36,7 +36,7 @@ Their main artist Ghyllian Delfin and her work is brilliant!
 
 ![](/images/posts/isladiwa/isladiwa_2.png) 
 
-Feel free to check out her most recent art [here](https://www.behance.net/asahidior).
+Feel free to check out her most recent art [here!](https://www.behance.net/asahidior) 
 
 ## Q&A Session with ReiKo
 On a different note, ReiKo was kind enough to answer a few questions I had.

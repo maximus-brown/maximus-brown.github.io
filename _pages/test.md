@@ -20,11 +20,13 @@ These beautiful art pieces are minted as [NFTs](https://isladiwa.org/cnft-sale/)
 
 BAYANInitiatives is a non-profit organization dedicated to the rescue, rehabilitation and rehoming of dogs in distress. 
 
+![](/images/posts/isladiwa/isladiwa_6.png) 
+
 In fact, isladiwa was originally created to help support these two initiatives I mentioned above and originally birthed as a Discord community.
 
 ![](/images/posts/isladiwa/isladiwa_2.png) 
 
-As a kid I remember our family adopted a welsh corgi breed and his name was Corki. He was a cute little puppy and he lived a long and happy life. The first day he walked into his new home he was so excited he couldn't control himself. It was a special day. 
+As a kid I remember our family adopted a Welsh Corgi breed and his name was Corki. He was a cute little puppy and he lived a long and happy life. The first day he walked into his new home he was so excited to be a part of new family that he couldn't control himself. It was a special day. 
 
 > "The name of the project, isladiwa, was derived from the words “isla” meaning island, and “diwa”, meaning soul, spirit, and sense. With these words combined, isladiwa alludes to the island of souls."
 

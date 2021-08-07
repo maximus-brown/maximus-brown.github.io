@@ -32,7 +32,7 @@ Growing up as a kid I've personally seen and experienced how special it is to ad
 
 He was a cute little puppy named Corki that ultimately lived a long and happy life. The first day he was so excited that someone picked him to be a part of a home, but it took some time for him to be reassured it wasn't temporary. 
 
-It was a special day and I'm thrilled to see organizations like isladiwa and the PAWSsion Project try to help dogs in need live a better life. 
+It was a special day and I'm thrilled to see organizations like isladiwa and the PAWSsion Project try to help dogs in dire need. 
 
 Their main artist [Ghyllian Delfin](https://www.behance.net/asahidior) and her work is brilliant! 
 

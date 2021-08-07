@@ -41,6 +41,7 @@ Their main artist is [Ghyllian Delfin](https://www.behance.net/asahidior) and he
 
 Feel free to check out her most recent art [here!](https://www.behance.net/asahidior) 
 
+## Supporting local artists
 The isladiwa organization also helps share about other local artists in the Philippines like this one from [@OlieMerza](https://twitter.com/OlieMerza). 
 
 ![](/images/posts/isladiwa/isladiwa_8.jpeg) 

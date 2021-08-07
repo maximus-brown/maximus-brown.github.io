@@ -6,7 +6,7 @@ image: '/images/posts/isladiwa/isladiwa_3.png'
 ---
 Cardano based creator, artist, and contributor [Reiko](https://twitter.com/isladiwa) from the Philippines is quite the busy bee. It's easy to see her genuine passion with being involved in the Cardano community across several projects. 
 
-![](/images/posts/isladiwa/isladiwa_5.png) 
+![](/images/posts/isladiwa/isladiwa_7.png) 
 
 Outside of the crypto world she's also a Dentistry student who loves animals, surfing, nature, traveling, games, and making new friends across the world. 
 

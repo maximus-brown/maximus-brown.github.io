@@ -10,7 +10,7 @@ Cardano based creator, artist, and contributor [Reiko](https://twitter.com/islad
 
 Outside of the crypto world she's also a Dentistry student who loves animals, surfing, nature, traveling, games, and making new friends across the world. 
 
-As I'm writing this article I'm certain there are things I'm missing in her contributions to help make Earth a better place, but I'd to share about one special project in particular she cofounded in March 2021 with Mr. Wolf called [isladiwa](https://isladiwa.org/). The team has now grown to eight and includes talented artists, developers, and writers.
+As I'm writing this article I'm certain there are things I'm missing in her contributions to help make Earth a better place, but I'd to share about one special project in particular she cofounded in March 2021 with [Mr. Wolf](https://www.instagram.com/wolf.tiu) called [isladiwa](https://isladiwa.org/). The team has now grown to eight and includes talented artists, developers, and writers.
 
 ![](/images/posts/isladiwa/isladiwa_1.jpeg) 
 
@@ -32,32 +32,29 @@ The isladiwa organization also helps share about other local artists in the Phil
 
 ![](/images/posts/isladiwa/isladiwa_8.jpeg) 
 
-I'm excited about the future of isladiwa and the positive impact they're making. 
+Their main artist Ghyllian Delfin and her work is brilliant! 
 
-Although ReiKo has been incredibly busy as of late growing isladiwa, she's also created many art pieces of her own like the one shown below. I'm guessing though that she's had little time as of late.
+![](/images/posts/isladiwa/isladiwa_2.png) 
 
+Feel free to check out her most recent art [here](https://www.behance.net/asahidior).
 
+## Q&A Session with ReiKo
+On a different note, ReiKo was kind enough to answer a few questions I had.
 
-> "The name of the project, isladiwa, was derived from the words “isla” meaning island, and “diwa”, meaning soul, spirit, and sense. With these words combined, isladiwa alludes to the island of souls."
-
-![](/images/posts/isladiwa/isladiwa_4.png) 
-
-What are you most excited about in the CNFT space in the next 5 years?
+### What are you most excited about in the CNFT space in the next 5 years?
 
 > I'm excited for CNFTs integrated with smart contracts, use cases, functionality. To see CNFT creators who put so much hardwork and passion to their craft bear fruits. Also so excited  to see what isladiwa does in the next 5 years and the amount of community it helped.
 
-What is one thing you enjoy about being involved and active in Cardano related projects?
+### What is one thing you enjoy about being involved and active in Cardano related projects?
 
 > Treasuring precious friendships that I have made and still continuing to make. To see people who enjoy art and seeing that it change their lives
 
-What are you hoping NFT projects as a whole will accomplish in the world longer term?
+### What are you hoping NFT projects as a whole will accomplish in the world longer term?
 
 > Sustainablility, a creative diverse community. Better environment for artists and collectors abolish fraud, inequality. People really just enjoying the art backed by blockchain
 
 
-this is our main artist :))))
 
-https://www.behance.net/asahidior
 
 
 i work with lots of friend artists from here in PH
@@ -69,9 +66,6 @@ this are the tokens forever keeping them T^T
 
 
 Presenting The Reiko Appreciation Collection! All proceeds will go to her. The total mint for each piece is 11.
-
-50 ADA/transaction/piece.
-Send to: addr1vxhy0p8wakzm8sxwm3g3mw9tqes99pe3ythue79mk5yzf3ceucjz5
 
 #ThankYouReiko , the community wouldn’t be the same without you.
 

@@ -32,15 +32,15 @@ He was a cute little puppy named Corki that ultimately lived a long and happy li
 
 It was a special day and I'm thrilled to see organizations like isladiwa and the PAWSsion Project try to help dogs in need live a better life. 
 
-The isladiwa organization also helps share about other local artists in the Philippines like this one from [@OlieMerza](https://twitter.com/OlieMerza). 
-
-![](/images/posts/isladiwa/isladiwa_8.jpeg) 
-
 Their main artist Ghyllian Delfin and her work is brilliant! 
 
 ![](/images/posts/isladiwa/isladiwa_9.png) 
 
 Feel free to check out her most recent art [here!](https://www.behance.net/asahidior) 
+
+The isladiwa organization also helps share about other local artists in the Philippines like this one from [@OlieMerza](https://twitter.com/OlieMerza). 
+
+![](/images/posts/isladiwa/isladiwa_8.jpeg) 
 
 ## Q&A Session with ReiKo
 On a different note, ReiKo was kind enough to answer a few questions I had.

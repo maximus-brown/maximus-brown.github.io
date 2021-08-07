@@ -14,6 +14,8 @@ As I'm writing this article I'm certain there are things I'm missing in her cont
 
 The artists on the team are creating amazing work like the one piece above called Bukang-Liwayway. These beautiful art pieces are minted as NFTs and proceeds are used to support some very important initiatives including the [PAWSsion Project](https://pawssionproject.org.ph/) and BAYANInitiatives.
 
+I highly recommend taking a look at the animated version on Pool.pm [here](https://pool.pm/0b28027fdb48b5f7f97e8c93e5939bc85eb9f0e7fe93e354672ce67d.PearlOfTheOrient01)!
+
 In fact, isladiwa was originally created to help support these two initiatives and originally birthed as a Discord community.
 
 ![](/images/posts/isladiwa/isladiwa_2.png) 

@@ -4,7 +4,7 @@ layout: page
 permalink: /test/ 
 image: '/images/posts/isladiwa/isladiwa_3.png'
 ---
-Cardano based creator, artist, and contributor [Reiko](https://twitter.com/isladiwa) from the Philippines is quite the busy bee. It's easy to see her genuine passion with being involved in the Cardano community across several projects. 
+Cardano based creator, artist, and contributor [ReiKo](https://twitter.com/isladiwa) from the Philippines is quite the busy bee. It's easy to see her genuine passion with being involved in the Cardano community across several projects. 
 
 ![](/images/posts/isladiwa/isladiwa_7.png) 
 

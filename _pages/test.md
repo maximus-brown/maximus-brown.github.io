@@ -10,7 +10,9 @@ Cardano based creator, artist, and contributor [Reiko](https://twitter.com/islad
 
 Outside of the crypto world she's also a Dentistry student who loves animals, surfing, nature, traveling, games, and making new friends across the world. 
 
-As I'm writing this article I'm certain there are things I'm missing in her contributions to help make Earth a better place, but I'd to share about one special project in particular she cofounded in March 2021 with [Mr. Wolf](https://www.instagram.com/wolf.tiu) called [isladiwa](https://isladiwa.org/). The team has now grown to eight and includes talented artists, developers, and writers.
+As I'm writing this article I'm certain there are things I'm missing in her contributions to help make Earth a better place, but I'd to share about one special project in particular she cofounded in March 2021 with [Mr. Wolf](https://www.instagram.com/wolf.tiu) called [isladiwa](https://isladiwa.org/). 
+
+The team has now grown to eight and includes talented artists, developers, and writers.
 
 ![](/images/posts/isladiwa/isladiwa_1.jpeg) 
 

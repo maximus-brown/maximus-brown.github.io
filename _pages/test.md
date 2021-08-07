@@ -2,7 +2,7 @@
 layout: page
 ##title: 
 permalink: /test/ 
-image: ''
+image: '/images/posts/isladiwa/isladiwa_3.png'
 ---
 
 Cardano based creator, artist, and contributor Reiko from the Philippines is quite the busy bee. It's easy to see her genuine passion with being involved in the Cardano community across several projects. Outside of the crypto world she's also a Dentistry student who loves animals, surfing, nature, traveling, games, and making new friends across the world. 
@@ -11,28 +11,28 @@ As I'm writing this article I'm certain there are things I'm missing in her cont
 
 ![](/images/posts/isladiwa/isladiwa_1.jpeg) 
 
-The artists on the team are creating amazing work like the one piece above called Bukang-Liwayway. These beautiful art pieces are minted as NFTs and proceeds are used to support some very important initiatives including the PAWSsion Project and BAYANInitiatives.
+The artists on the team are creating amazing work like the one piece above called Bukang-Liwayway. These beautiful art pieces are minted as NFTs and proceeds are used to support some very important initiatives including the [PAWSsion Project](https://pawssionproject.org.ph/) and BAYANInitiatives.
 
-In fact, isladiwa was originally created to help support these two initiatives.
+In fact, isladiwa was originally created to help support these two initiatives and originally birthed as a Discord community.
 
 ![](/images/posts/isladiwa/isladiwa_2.png) 
 
-The name isladiwa was derived from the words “isla” meaning island, and “diwa”, meaning soul, spirit, and sense. With these words combined, isladiwa alludes to the island of souls.
+> The name of the project, isladiwa, was derived from the words “isla” meaning island, and “diwa”, meaning soul, spirit, and sense. With these words combined, isladiwa alludes to the island of souls.
 
-
+![](/images/posts/isladiwa/isladiwa_2.png) 
 
 What are you most excited about in the CNFT space in the next 5 years?
 
-I'm excited for CNFTs integrated with smart contracts, use cases, functionality. To see CNFT creators who put so much hardwork and passion to their craft bear fruits. Also so excited  to see what isladiwa does in the next 5 years and the amount of community it helped.
-
+> I'm excited for CNFTs integrated with smart contracts, use cases, functionality. To see CNFT creators who put so much hardwork and passion to their craft bear fruits. Also so excited  to see what isladiwa does in the next 5 years and the amount of community it helped.
 
 What is one thing you enjoy about being involved and active in Cardano related projects?
 
+> Treasuring precious friendships that I have made and still continuing to make. To see people who enjoy art and seeing that it change their lives
 
 What are you hoping NFT projects as a whole will accomplish in the world longer term?
 
+> Sustainablility, a creative diverse community. Better environment for artists and collectors abolish fraud, inequality. People really just enjoying the art backed by blockchain
 
-Sustainablility, a creative diverse community. Better environment for artists and collectors abolish fraud, inequality. People really just enjoying the art backed by blockchain
 
 
 this is our main artist :))))
@@ -76,7 +76,6 @@ https://pool.pm/addr1qys6sklm00tkgvwmrt3v69lyemdy5rztarujphhuejl3vv7xwe790cps323
 
 
 
-Treasuring precious friendships that I have made and still continuing to make. To see people who enjoy art and seeing that it change their lives
 
 
 

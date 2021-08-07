@@ -34,7 +34,7 @@ The isladiwa organization also helps share about other local artists in the Phil
 
 Their main artist Ghyllian Delfin and her work is brilliant! 
 
-![](/images/posts/isladiwa/isladiwa_2.png) 
+![](/images/posts/isladiwa/isladiwa_9.png) 
 
 Feel free to check out her most recent art [here!](https://www.behance.net/asahidior) 
 

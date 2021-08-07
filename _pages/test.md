@@ -34,7 +34,7 @@ He was a cute little puppy named Corki that ultimately lived a long and happy li
 
 It was a special day and I'm thrilled to see organizations like isladiwa and the PAWSsion Project try to help dogs in dire need. 
 
-## isladiwa's Lead Artist
+## isladiwa's Main Artist
 Their main artist [Ghyllian Delfin](https://www.behance.net/asahidior) and her work is brilliant! 
 
 ![](/images/posts/isladiwa/isladiwa_9.png) 

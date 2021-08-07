@@ -12,17 +12,21 @@ As I'm writing this article I'm certain there are things I'm missing in her cont
 
 ![](/images/posts/isladiwa/isladiwa_1.jpeg) 
 
-The artists on the team are creating amazing work like the one piece above called Bukang-Liwayway in the Pearl of the Orient collection. These beautiful art pieces are minted as NFTs and proceeds are used to support some very important initiatives including the [PAWSsion Project](https://pawssionproject.org.ph/) and BAYANInitiatives.
+The artists on the team are creating amazing work like the one piece above called Bukang-Liwayway in the [Pearl of the Orient](https://isladiwa.org/cnft-sale/) collection. I greatly enjoyed watching the animated version on Pool.pm [here](https://pool.pm/0b28027fdb48b5f7f97e8c93e5939bc85eb9f0e7fe93e354672ce67d.PearlOfTheOrient01)! 
 
-I highly recommend taking a look at the animated version on Pool.pm [here](https://pool.pm/0b28027fdb48b5f7f97e8c93e5939bc85eb9f0e7fe93e354672ce67d.PearlOfTheOrient01)!
+These beautiful art pieces are minted as NFTs and proceeds are used to support some very important initiatives including the [PAWSsion Project](https://pawssionproject.org.ph/), which is  and BAYANInitiatives.
 
-In fact, isladiwa was originally created to help support these two initiatives and originally birthed as a Discord community.
+BAYANInitiatives is a non-profit organization dedicated to the rescue, rehabilitation and rehoming of dogs in distress. 
 
-![](/images/posts/isladiwa/isladiwa_2.png) 
-
-> The name of the project, isladiwa, was derived from the words “isla” meaning island, and “diwa”, meaning soul, spirit, and sense. With these words combined, isladiwa alludes to the island of souls.
+In fact, isladiwa was originally created to help support the two initiatives I mentioned above and originally birthed as a Discord community.
 
 ![](/images/posts/isladiwa/isladiwa_2.png) 
+
+As a kid I remember our family adopted a welsh corgi breed and his name was Corki. He was a cute little puppy and he lived a long and happy life. The first day he walked into his new home he was so excited he couldn't control himself. It was a special day. 
+
+> "The name of the project, isladiwa, was derived from the words “isla” meaning island, and “diwa”, meaning soul, spirit, and sense. With these words combined, isladiwa alludes to the island of souls."
+
+![](/images/posts/isladiwa/isladiwa_4.png) 
 
 What are you most excited about in the CNFT space in the next 5 years?
 

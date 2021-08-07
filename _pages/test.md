@@ -37,7 +37,6 @@ What are you hoping NFT projects as a whole will accomplish in the world longer 
 > Sustainablility, a creative diverse community. Better environment for artists and collectors abolish fraud, inequality. People really just enjoying the art backed by blockchain
 
 
-
 this is our main artist :))))
 
 https://www.behance.net/asahidior

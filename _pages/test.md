@@ -4,7 +4,6 @@ layout: page
 permalink: /test/ 
 image: '/images/posts/isladiwa/isladiwa_3.png'
 ---
-
 Cardano based creator, artist, and contributor Reiko from the Philippines is quite the busy bee. It's easy to see her genuine passion with being involved in the Cardano community across several projects. 
 
 Outside of the crypto world she's also a Dentistry student who loves animals, surfing, nature, traveling, games, and making new friends across the world. 

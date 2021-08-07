@@ -1,19 +1,21 @@
 ---
 layout: post
-title:  ReiKo's impact as an artist, project creator, and contributor in the Cardano community is wide.
-description: Building a virtual city of NFTs on top of Cardano blockchain
+title:  ReiKo's contribution and impact in the Cardano community stretches far and wide.
+description: 
 date:   2021-07-12 15:01:35 +0300
 image:  '/images/posts/beyond_rockets/beyond_rockets_1.png'
 tags:   [art, city, metaverse]
 ---
 
-Cardano based creator and artist Reiko from the Philippines is quite the busy bee. It's easy to see her genuine passion with being involved in the community, and her impact stretches far and wide across several projects and people along the way. As I'm writing this article I'm certain there's things I'm missing in her contributions to making this world a better place, but I'll share a few things I've learned so far. 
+Cardano based creator, artist, and contributor Reiko from the Philippines is quite the busy bee. It's easy to see her genuine passion with being involved in the Cardano community across several projects. Outside of the crypto world she's also a Dentistry student who loves animals, surfing, nature, traveling, games, and making new friends across the world. 
 
-Outside of the crypto world she's a Dentistry student who loves animals, surfing, nature, traveling, games, and making new friends across the world.
+As I'm writing this article I'm certain there's things I'm missing in her contributions to making this world a better place, but I'd to share about one special project in particular she cofounded in March 2021 with Mr. World called "isladiwa".
 
-I'd like to first start by sharing about her most recent development co-creating a new diverse community space with Mr. Wolf called isladiwa that was founded in March 2021. 
+![](/images/posts/isladiwa/isladiwa_1.jpeg) 
 
-[image]
+The primary purpose of the initiative is to help support the PAWSsion Project and BAYANInitiatives with 
+
+PAWSsion Project and BAYANInitiatives 
 
 The project isladiwa was originally birthed as a Discord community and aims to support others with collective efforts yet create a bigger impact in this world. Some of the artwork produced so far has been amazing like this one....
 

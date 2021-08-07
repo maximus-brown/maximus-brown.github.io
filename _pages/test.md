@@ -22,7 +22,7 @@ BAYANInitiatives is a non-profit organization dedicated to the rescue, rehabilit
 
 ![](/images/posts/isladiwa/isladiwa_6.png) 
 
-In fact, isladiwa was originally created to help support these two initiatives I mentioned above and originally birthed as a [Discord community](https://discord.gg/ttZGnwHD).
+In fact, isladiwa was originally created to help support these two initiatives I mentioned above and birthed as a [Discord community](https://discord.gg/ttZGnwHD).
 
 ![](/images/posts/isladiwa/isladiwa_2.png) 
 

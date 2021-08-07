@@ -18,7 +18,7 @@ The artists and entire team behind the scenes are creating amazing work like the
 
 These beautiful art pieces are minted as [NFTs](https://isladiwa.org/cnft-sale/) and proceeds are used to support some very important initiatives including the [PAWSsion Project](https://pawssionproject.org.ph/) and BAYANInitiatives.
 
-PAWSsion Project is a non-profit organization dedicated to the rescue, rehabilitation and rehoming of dogs in distress. 
+The [PAWSsion Project](https://pawssionproject.org.ph/) is a non-profit organization dedicated to the rescue, rehabilitation and rehoming of dogs in distress. 
 
 ![](/images/posts/isladiwa/isladiwa_6.png) 
 

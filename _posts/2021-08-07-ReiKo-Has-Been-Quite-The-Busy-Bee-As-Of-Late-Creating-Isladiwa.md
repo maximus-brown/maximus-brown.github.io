@@ -4,7 +4,7 @@ title: Cardano based creator, artist, and contributor ReiKo has been quite the b
 description: Let's take a deeper look into what the project's about.
 date:   2021-08-07 15:01:35 +0300
 image: '/images/posts/isladiwa/isladiwa_3.png'
-tags:   [NFTs,Cardano,Non-Profit]
+tags:   [CNFTs,Cardano,Non-Profit]
 ---
 Cardano based creator, artist, and contributor [ReiKo](https://twitter.com/isladiwa) from the Philippines is quite the busy bee. It's easy to see her genuine passion with being involved in the Cardano community across several projects. 
 

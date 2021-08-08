@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cardano based creator, artist, and contributor ReiKo has been quite the busy bee as of late cofounding a wonderful new venture called "isladiwa". 
+title: Cardano based creator, artist, and contributor ReiKo has been quite the busy bee as of late cofounding a wonderful new venture called isladiwa. 
 description: Let's take a deeper look into what the project's about.
 date:   2021-08-07 15:01:35 +0300
 image: '/images/posts/isladiwa/isladiwa_3.png'

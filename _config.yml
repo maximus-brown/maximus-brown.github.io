@@ -4,7 +4,7 @@ title: Explore NFTs
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Sharing my journey exploring the world of CNFTs on Cardano blockchain and as an artist myself creating some along the way.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.explorenfts.com/" # the base hostname & protocol for your site, e.g. http://example.com
 color_scheme: light # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 

@@ -2,9 +2,9 @@
 layout: page
 ##title: About
 permalink: /test/
-image: '/images/posts/cardano_trees/cardano_trees_1_png'
+image: '/images/posts/cardano_trees/cardano_trees_1.png'
 ---
-The creativity in new projects keeps on coming! [@CardanoTrees](https://twitter.com/CardanoTrees) has built the first on-chain trees living and growing in Cardano Blockchain. Yes, that's right. All code and art is written on the blockchain entirely and the art itself dynamically changes over time.  
+Creativity in new projects keeps on coming! [@CardanoTrees](https://twitter.com/CardanoTrees) has built the first on-chain trees living and growing in Cardano Blockchain. Yes, that's right. All code and art is written on the blockchain entirely and the art itself dynamically changes over time.  
 
 ## Cardano Trees Demo 04
 Simply beautiful art. To fully experience what he's created I highly recommend watching the animatated demo in the Pool.pm link shared below, otherwise you'll miss the most special parts that can't be put into words.   
@@ -12,9 +12,6 @@ Simply beautiful art. To fully experience what he's created I highly recommend w
 [View Demo Here](https://pool.pm/386707e1dd9ae353a49480c576a680266e48737be00c1515ec3e715d.CTDemo04)
 
 ![](/images/posts/cardano_trees/cardano_trees_9.png) 
-
-Not only do the trees change over time, but 
-
 
 Images shown below doesn't do any justice  
 

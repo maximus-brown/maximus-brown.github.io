@@ -6,8 +6,10 @@ image: '/images/posts/cardano_trees/cardano_trees_1.png'
 ---
 Creativity in new projects keeps on coming! [@CardanoTrees](https://twitter.com/CardanoTrees) has built the first on-chain trees living and growing in Cardano Blockchain. Yes, that's right. All code and art is written on the blockchain entirely and the art itself dynamically changes over time.  
 
-## Cardano Trees Demo
+## Demo Tree
 Before we dive further into the project I highly recommend watching the animatated demo on Pool.pm in the link shared below. 
+
+This demo tree has super accelerated growth to show the evolution, but the actual CNFTs in the future will move at a much slower pace. 
 
 [View Demo Here](https://pool.pm/386707e1dd9ae353a49480c576a680266e48737be00c1515ec3e715d.CTDemo04)
 
@@ -15,11 +17,19 @@ Before we dive further into the project I highly recommend watching the animatat
 
 Simply beautiful right! I was struggling to put into words all aspects of this masterpiece. 
 
-Below are some of the tree designs he's working on that are planned to be included in an upcoming CNFT drop. 
+Below are some tree designs he's working on for an upcoming CNFT drop that hasn't been announced yet.  
 
 ![](/images/posts/cardano_trees/cardano_trees_3.png) 
 
-## 
+## Seasons and Weather Conditions
+
+## Only 4KB of code
+
+## Real trees will be planted for each minted CNFT
+
+
+
+
 
 Know the fist full on-chain trees living and growing in Cardano Blockchain!! Deciduous treeDizzy symbol
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 ##title: About
-permalink: /test/
+permalink: /test2/
 image: '/images/posts/cardano_trees_1_png'
 ---
 

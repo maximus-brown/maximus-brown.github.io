@@ -1,6 +1,6 @@
 ---
 layout: page
-##title: A must have tool to learn for art collectors in the Cardano NFT space is none other than pool.pm! 
+##title: A must have tool to use for anyone in involved in the Cardano NFT space is none other than pool.pm! 
 permalink: /pool/
 image: '/images/posts/pool-pm/pool_3.png'
 ---

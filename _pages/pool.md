@@ -4,7 +4,7 @@ layout: page
 permalink: /pool/
 image: '/images/posts/pool-pm/pool_4.png'
 ---
-One of the very first things I ever experienced and learned as a newbie joining the Cardano NFT community was using the beautifuly designed and simple web tool called [Pool.pm](https://pool.pm/).  
+One of the very  first things I ever experienced and learned as a newbie joining the Cardano NFT community was using the beautifuly designed and simple web tool called [Pool.pm](https://pool.pm/).  
 
 
 

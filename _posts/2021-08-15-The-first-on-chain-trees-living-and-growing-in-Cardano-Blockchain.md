@@ -48,7 +48,7 @@ Twitter || [@CardanoTrees](https://twitter.com/CardanoTrees)
 Discord || [https://discord.gg/4qd2hWGeWM](https://discord.gg/d984qqvs)
 
 ## Conclusion 
-In summary, what's quite unique about this project is they aren't static images, gifs, or videos. These trees are growing on the fly and entirely stored as code on the blockchain. That means hosting art files to reference in IPFS, but the artist did include that information in case anyone wanted to take a look
+In summary, what's quite unique about this project is they aren't static images, gifs, or videos. These trees are growing on the fly and entirely stored as code on the blockchain. That means there's no need to host art files to reference in IPFS, but the artist did include that information in case anyone wanted to take a look.
 
 Until next time, take care! 
 

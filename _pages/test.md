@@ -35,6 +35,14 @@ I couldn't have said this better about the efficience of Cardano's blockchain te
 
 > Because Cardano is a low power consumption blockchain, it's a beautiful place to growth nature in it!!!
 
+### Check out what the team is up to
+If you'd like to find out what the creator is up to check out his Twitter or Discord server. I've shared both links below. 
+
+### Social
+Twitter || [@CardanoTrees](https://twitter.com/CardanoTrees)  
+
+Discord || [https://discord.gg/4qd2hWGeWM](https://discord.gg/d984qqvs)
+
 ## Conclusion 
 In summary, what's quite unique about this project is they aren't static images, gifs, or videos. These trees are growing on the fly and entirely stored as code on the blockchain. That means hosting art files to reference in IPFS, but the artist did include that information in case anyone wanted to take a look
 

@@ -13,9 +13,9 @@ Yes, that's right. All code and art are written on the blockchain entirely and t
 ## Let's take a look at the Demo Tree
 Before we dive further into the project I highly recommend watching the animatated [demo](https://pool.pm/386707e1dd9ae353a49480c576a680266e48737be00c1515ec3e715d.CTDemo04) on Pool.pm in the link shared below. 
 
-This demo tree shared by the creator has super accelerated growth to show the evolution, but the actual CNFTs in the future will move at a much slower pace. Not only that, each tree has a set of geographic coordinates that behave based on the time of day the coordinates are located around the world.
-
 [View Demo Here](https://pool.pm/386707e1dd9ae353a49480c576a680266e48737be00c1515ec3e715d.CTDemo04)
+
+This demo tree shared by the creator has super accelerated growth to show the evolution, but the actual CNFTs in the future will move at a much slower pace. Not only that, each tree has a set of geographic coordinates that behave based on the time of day the coordinates are located around the world.
 
 ![](/images/posts/cardano_trees/cardano_trees_9.png) 
 

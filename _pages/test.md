@@ -69,3 +69,4 @@ Here are the first five Cardano trees that I have already minted and giveaway. I
 yes, is all in the blockchain. and the thumbnail is in the blockchain too... is an svg code (suport vercor graphic). For example you can see here...
 
 
+

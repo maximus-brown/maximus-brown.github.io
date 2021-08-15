@@ -39,7 +39,7 @@ I couldn't have said this better about the efficience of Cardano's blockchain te
 
 > Because Cardano is a low power consumption blockchain, it's a beautiful place to growth nature in it!!!
 
-### Check out what the team is up to
+### Check out what CardanoTrees is up to
 If you'd like to find out what the creator is up to check out his Twitter or Discord server. I've shared both links below. 
 
 ### Social

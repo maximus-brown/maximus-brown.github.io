@@ -2,7 +2,7 @@
 layout: post
 title: CardanoTrees has built the first on-chain trees living and growing in Cardano Blockchain.
 description: Let's take look at what it means to have a growing tree on Cardano.
-date:   2020-01-07 15:01:35 +0300
+date:   2021-08-15 15:01:35 +0300
 image: '/images/posts/cardano_trees/cardano_trees_1.png'
 tags:   [CNFTs,Cardano]
 ---

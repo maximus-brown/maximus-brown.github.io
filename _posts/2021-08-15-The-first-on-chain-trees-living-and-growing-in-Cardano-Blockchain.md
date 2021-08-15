@@ -6,7 +6,7 @@ date:   2020-01-07 15:01:35 +0300
 image: '/images/posts/cardano_trees/cardano_trees_1.png'
 tags:   [CNFTs,Cardano]
 ---
-Creativity in new projects keeps on coming! CardanoTrees has built the first on-chain trees living and growing in Cardano Blockchain. Yes, that's right. 
+Creativity in new projects keeps on coming! CardanoTrees has built the first on-chain trees living and growing in Cardano Blockchain.
 
 Yes, that's right. All code and art created by [@CardanoTrees](https://twitter.com/CardanoTrees) is written on the blockchain entirely and the art itself dynamically changes over time.  
 

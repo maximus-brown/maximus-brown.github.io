@@ -8,7 +8,7 @@ tags:   [CNFTs,Cardano]
 ---
 Space, galaxies, and planets have always been something I've been fascinated with since a young age, yet I still know so little. 
 
-When I stumbled across [@DexoWorlds](https://twitter.com/DexoWorlds) NFT project, which was built on top of the Cardano blockchain, I was intrigued because each one of the pixel art pieces that could be collected was a unique planet in a fictional galaxy called *Veran Way* and I liked that it could inspire people of all ages to learn more about science. 
+When I stumbled across [@DexoWorlds](https://twitter.com/DexoWorlds) NFT project, which was built on top of the Cardano blockchain, I was intrigued because each one of the pixel art pieces that could be collected was a unique planet in a fictional galaxy called *Veran Way* and I also liked that it could inspire people of all ages to learn more about science. 
 
 ![](/images/posts/dexoworlds/dexoworlds_5.png)
 
@@ -32,14 +32,23 @@ For example, planet [#2108](https://pool.pm/862cd06c4504de6114a29e0b863751ee84ad
 - Size : XS
 - Total Satellites : 4
 
-To get the full experience of this planet check out the Pool.pm URL below. 
+To get the full experience of this planet check it out in the Pool.pm link below. 
 
 [Planet #2108 Ekexdoporos-a](https://pool.pm/862cd06c4504de6114a29e0b863751ee84ad455493d43aeeb727d896.DexoWorld2108) 
 
 ### Future Plans
-Creators of the project are astrophysics students and they envision implementing loads of cool features in the future once smart contracts are supported on Cardano. 
+Creators of the project are astrophysics students and they envision implementing loads of cool features in the future once smart contracts are supported on the Cardano blockchain.  
 
-A few ideas they have in mind include ways to facilitate trading and distributing new NFTs of each star to those who hold all of the planets which orbit that star
+A few ideas they have in mind include ways to facilitate trading and distributing new NFTs of each star to those who hold all of the planets which orbit that star.
+
+> Our ultimate goal is to create generative art on the Cardano blockchain.
+
+### Is there actual science involved here?
+The best explanation for this is coming from the creators themselves.
+
+> Yes! Well, some. The concept of DexoWorlds is based upon the scientific field of Exoplanet Searches and Characterization. The types of stars you can find, including their properties (like mass, surface temperature, color, etc.) are all based on what you might actually find in a typical spiral galaxy. In addition, the locations of the planets around these stars determine if conditions are right for there to be liquid water and potentially life on each planet. In terms of the colors, rings, and moons, well, we took some artistic liberties. In all, DexoWorlds are 50% science and 50% art!
+
+
 
 
 Until next time, take care! 

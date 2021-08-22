@@ -42,12 +42,16 @@ A few ideas they have in mind include ways to facilitate trading and distributin
 > Our ultimate goal is to create generative art on the Cardano blockchain.
 
 ### Is there actual science involved here?
-The best explanation for this is coming from the creators themselves.
+The best explanation for this comes straight from the creators. 
 
 > Yes! Well, some. The concept of DexoWorlds is based upon the scientific field of Exoplanet Searches and Characterization. The types of stars you can find, including their properties (like mass, surface temperature, color, etc.) are all based on what you might actually find in a typical spiral galaxy. In addition, the locations of the planets around these stars determine if conditions are right for there to be liquid water and potentially life on each planet. In terms of the colors, rings, and moons, well, we took some artistic liberties. In all, DexoWorlds are 50% science and 50% art!
 
+### What are they up to now? 
+One of the best ways to see what the DexoWorlds team is up to is visit  their Discord community or check out their Twitter page. I've provided links to both below. 
 
+Twitter || [@DexoWorlds](https://twitter.com/DexoWorlds)  
 
+Discord || [https://discord.gg/GP8UYfjN](https://discord.gg/GP8UYfjN)
 
 Until next time, take care! 
 

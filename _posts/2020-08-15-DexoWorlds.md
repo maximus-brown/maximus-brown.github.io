@@ -3,7 +3,7 @@ layout: post
 title: A fictional galaxy called Veran Way DexoWorlds
 description: Individal planets have various properties like color schemes, patterns, rings, moons, life, and more. 
 date:   2019-08-15 15:01:35 +0300
-image: '/images/posts/dexoworlds/dexoworlds_7.png'
+image: '/images/posts/dexoworlds/dexoworlds_9.png'
 tags:   [CNFTs,Cardano]
 ---
 Space, galaxies, and planets have always been something I've been fascinated with since a young age, yet I still know so little. 

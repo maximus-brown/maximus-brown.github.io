@@ -30,7 +30,7 @@ For example, planet [#2108](https://pool.pm/862cd06c4504de6114a29e0b863751ee84ad
 - Total Satellites : 4
 - And more...
 
-To get the full experience of this planet check it out in the Pool.pm link below. 
+To get the full experience of this planet you can check it out in the Pool.pm link below. 
 
 [Planet #2108 Ekexdoporos-a](https://pool.pm/862cd06c4504de6114a29e0b863751ee84ad455493d43aeeb727d896.DexoWorld2108) 
 

@@ -32,7 +32,7 @@ For example, planet [#2108](https://pool.pm/862cd06c4504de6114a29e0b863751ee84ad
 
 To get the full experience of this planet you can check it out in the Pool.pm link below. 
 
-[Planet #2108 Ekexdoporos-a](https://pool.pm/862cd06c4504de6114a29e0b863751ee84ad455493d43aeeb727d896.DexoWorld2108) 
+[View on Pool.pm](https://pool.pm/862cd06c4504de6114a29e0b863751ee84ad455493d43aeeb727d896.DexoWorld2108) 
 
 ### Future Plans
 Creators of the project are astrophysics students and they envision implementing loads of cool features in the future once smart contracts are supported on the Cardano blockchain with the hard Alonzo fork.  
@@ -49,9 +49,9 @@ The best explanation for this comes straight from the creators.
 ### How can I learn more about DexoWorlds? 
 One of the best ways to see what the DexoWorlds team is up to is visit  their active Discord community or reach out to them on Twitter. I've provided links to both below. 
 
-Twitter || [@DexoWorlds](https://twitter.com/DexoWorlds)  
+Twitter : [@DexoWorlds](https://twitter.com/DexoWorlds)  
 
-Discord || [https://discord.gg/GP8UYfjN](https://discord.gg/GP8UYfjN)
+Discord : [https://discord.gg/GP8UYfjN](https://discord.gg/GP8UYfjN)
 
 Until next time, take care! 
 

@@ -8,7 +8,9 @@ tags:   [CNFTs,Cardano]
 ---
 Space, galaxies, and planets have always been something I've been fascinated with since a young age, yet I still know so little. 
 
-When I stumbled across [@DexoWorlds](https://twitter.com/DexoWorlds) NFT project, which was built on top of the Cardano blockchain, I was intrigued because each one of the pixel art pieces that could be collected was a unique planet in a fictional galaxy called *Veran Way* and I also liked that it could inspire people of all ages to learn more about science. 
+When I stumbled across [@DexoWorlds](https://twitter.com/DexoWorlds) NFT project, which was built on top of the Cardano blockchain, I was intrigued because each one of the pixel art pieces that could be collected was a unique planet in a fictional galaxy called *Veran Way*. 
+
+I also liked that it could inspire people of all ages to learn more about science and the simplicity of the art itself. 
 
 ![](/images/posts/dexoworlds/dexoworlds_5.png)
 

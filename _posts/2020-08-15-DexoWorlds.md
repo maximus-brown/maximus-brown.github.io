@@ -18,21 +18,17 @@ Individal planets have various properties like color schemes, patterns, rings, m
 
 For example, planet [#2108](https://pool.pm/862cd06c4504de6114a29e0b863751ee84ad455493d43aeeb727d896.DexoWorld2108) shown above, also called "Ekexdoporos-a", has loads of different properties including: 
 
-- Background Start Color : White
 - Compositions : Rocky 
 - Host Star Name : Ekexdoporos
 - Life : None
 - Moons : 1
 - Planet Position : 1/6
-- Quadrant : II
 - Region : Nether Arm
 - Research Impact : Interesting
 - Rings : Normal
 - Rings Color : Special 
-- Sector : 44
-- Semi-major Axis : 0.07 AU
-- Size : XS
 - Total Satellites : 4
+- And more...
 
 To get the full experience of this planet check it out in the Pool.pm link below. 
 

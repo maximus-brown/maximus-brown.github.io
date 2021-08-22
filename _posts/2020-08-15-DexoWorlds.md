@@ -47,7 +47,7 @@ The best explanation for this comes straight from the creators.
 > Yes! Well, some. The concept of DexoWorlds is based upon the scientific field of Exoplanet Searches and Characterization. The types of stars you can find, including their properties (like mass, surface temperature, color, etc.) are all based on what you might actually find in a typical spiral galaxy. In addition, the locations of the planets around these stars determine if conditions are right for there to be liquid water and potentially life on each planet. In terms of the colors, rings, and moons, well, we took some artistic liberties. In all, DexoWorlds are 50% science and 50% art!
 
 ### How can I learn more about DexoWorlds? 
-One of the best ways to see what the DexoWorlds team is up to is visit  their active Discord community or reach to them on Twitter. I've provided links to both below. 
+One of the best ways to see what the DexoWorlds team is up to is visit  their active Discord community or reach out to them on Twitter. I've provided links to both below. 
 
 Twitter || [@DexoWorlds](https://twitter.com/DexoWorlds)  
 

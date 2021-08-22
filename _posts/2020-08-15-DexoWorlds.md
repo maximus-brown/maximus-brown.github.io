@@ -1,7 +1,7 @@
 ---
 layout: post
-title: DexoWorlds
-description: Let's take look at what it means to have a growing tree on Cardano.
+title: A fictional galaxy called Veran Way DexoWorlds
+description: Individal planets have various properties like color schemes, patterns, rings, moons, life, and more. 
 date:   2019-08-15 15:01:35 +0300
 image: '/images/posts/dexoworlds/dexoworlds_1.png'
 tags:   [CNFTs,Cardano]

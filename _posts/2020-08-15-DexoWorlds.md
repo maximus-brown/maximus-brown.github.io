@@ -35,7 +35,7 @@ To get the full experience of this planet you can check it out in the Pool.pm li
 [Planet #2108 Ekexdoporos-a](https://pool.pm/862cd06c4504de6114a29e0b863751ee84ad455493d43aeeb727d896.DexoWorld2108) 
 
 ### Future Plans
-Creators of the project are astrophysics students and they envision implementing loads of cool features in the future once smart contracts are supported on the Cardano blockchain.  
+Creators of the project are astrophysics students and they envision implementing loads of cool features in the future once smart contracts are supported on the Cardano blockchain with the hard Alonzo fork.  
 
 A few ideas they have in mind include ways to facilitate trading and distributing new NFTs of each star to those who hold all of the planets which orbit that star.
 
@@ -46,8 +46,8 @@ The best explanation for this comes straight from the creators.
 
 > Yes! Well, some. The concept of DexoWorlds is based upon the scientific field of Exoplanet Searches and Characterization. The types of stars you can find, including their properties (like mass, surface temperature, color, etc.) are all based on what you might actually find in a typical spiral galaxy. In addition, the locations of the planets around these stars determine if conditions are right for there to be liquid water and potentially life on each planet. In terms of the colors, rings, and moons, well, we took some artistic liberties. In all, DexoWorlds are 50% science and 50% art!
 
-### What are they up to now? 
-One of the best ways to see what the DexoWorlds team is up to is visit  their Discord community or check out their Twitter page. I've provided links to both below. 
+### How can I learn more about DexoWorlds? 
+One of the best ways to see what the DexoWorlds team is up to is visit  their active Discord community or reach to them on Twitter. I've provided links to both below. 
 
 Twitter || [@DexoWorlds](https://twitter.com/DexoWorlds)  
 

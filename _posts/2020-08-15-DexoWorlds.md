@@ -3,7 +3,7 @@ layout: post
 title: DexoWorlds
 description: Let's take look at what it means to have a growing tree on Cardano.
 date:   2019-08-15 15:01:35 +0300
-image: '/images/posts/dexoworlds/dexoworlds_2.png'
+image: '/images/posts/dexoworlds/dexoworlds_1.png'
 tags:   [CNFTs,Cardano]
 ---
 Space, galaxies, and planets have always been something I've been fascinated with at a young age, yet I still know so little. When I stumbled across the [@DexoWorlds](https://twitter.com/DexoWorlds) project, which was built on top of the Cardano blockchain, I was intrigued because each one of the pixel art NFTs was a unique planet in a fictional galaxy called Veran Way. 

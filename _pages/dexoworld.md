@@ -30,8 +30,3 @@ For example, planet [#2108](https://pool.pm/862cd06c4504de6114a29e0b863751ee84ad
 - Semi-major Axis || 0.07 AU
 - Size || XS
 - Total Satellites || 4
-
-
-
-
-

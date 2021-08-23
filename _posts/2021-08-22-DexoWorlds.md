@@ -4,7 +4,7 @@ title: A fictional galaxy called Veran Way has made its way onto Cardano blockch
 description: The project created by DexoWorlds has individual planets with various properties like color schemes, patterns, rings, moons, life, and more. 
 date:   2021-08-22 15:01:35 +0300
 image: '/images/posts/dexoworlds/dexoworlds_9.png'
-tags:   [CNFTs,Cardano]
+tags:   [CNFTs,Cardano, Science]
 ---
 Space, galaxies, and planets have always been something I've been fascinated with since a young age, yet I still know so little. 
 
@@ -46,7 +46,12 @@ The best explanation for this comes straight from the creators.
 
 > Yes! Well, some. The concept of DexoWorlds is based upon the scientific field of Exoplanet Searches and Characterization. The types of stars you can find, including their properties (like mass, surface temperature, color, etc.) are all based on what you might actually find in a typical spiral galaxy. In addition, the locations of the planets around these stars determine if conditions are right for there to be liquid water and potentially life on each planet. In terms of the colors, rings, and moons, well, we took some artistic liberties. In all, DexoWorlds are 50% science and 50% art!
 
-What is one thing you're most excited about in the future for the Cardano community?
+### Planet rarities and research
+They have a well designed and beautiful page to research planet attributies and rarities you can see [here.](https://dexoworlds.com/research/) 
+
+![](/images/posts/dexoworlds/dexoworlds_10.png) 
+
+### What is one thing you're most excited about in the future for the Cardano community?
 
 > I'm most excited about the release of smart contracts slated for less than a month from now, which will add a whole new level of creativity and versatility to the ecosystem. It's incredible to see what artists and developers have already been able to achieve on Cardano, so I can only imagine what's going to come next!
 

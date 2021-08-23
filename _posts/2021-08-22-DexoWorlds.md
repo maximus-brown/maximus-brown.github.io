@@ -1,8 +1,8 @@
 ---
 layout: post
-title: A fictional galaxy called Veran Way DexoWorlds
-description: Individal planets have various properties like color schemes, patterns, rings, moons, life, and more. 
-date:   2019-08-15 15:01:35 +0300
+title: A fictional galaxy called Veran Way has made its way onto Cardano blockchain
+description: The project created by DexoWorlds has individual planets with various properties like color schemes, patterns, rings, moons, life, and more. 
+date:   2021-08-22 15:01:35 +0300
 image: '/images/posts/dexoworlds/dexoworlds_9.png'
 tags:   [CNFTs,Cardano]
 ---

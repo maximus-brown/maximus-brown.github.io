@@ -9,15 +9,15 @@ tags:   [CNFTs,Cardano, wall-art]
 
 The time has finally come for CNFT holders to enjoy their collections as wall art! [Nano Frames](https://twitter.com/NANO_Frames) is the first project of its kind in the Cardano community that's creating digital frames and it's much needed. 
 
-![](/images/posts/nano_frames/nano_frames_2.png) 
-
 Up until this point in time the most beautiful art being created by artists on the Cardno blockchain has had limited utility in terms of wall art, at least for most folks with the exception of a few who are technically savvy enough to know how to build digital frames using a Rasberry Pi.
+
+![](/images/posts/nano_frames/nano_frames_2.png) 
 
 I'm looking forward to a day in the future when more people are interested to buy NFTs because of aesthetics and beauty rather than purely for a quick flip.  
 
-![](/images/posts/nano_frames/nano_frames_7.jpeg) 
-
 Nano Frames gets us closer to that and I'm thrilled they've decided to take the leap. 
+
+![](/images/posts/nano_frames/nano_frames_7.jpeg) 
 
 ### Cardano Wallet Connection
 Their vision is for collectors to connect their wallet with a Nano Frames app that allow you to pick which NFTs you'd like display in the digital frame. 

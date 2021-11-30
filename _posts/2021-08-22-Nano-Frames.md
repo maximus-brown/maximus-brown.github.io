@@ -9,7 +9,7 @@ tags:   [CNFTs,Cardano, wall-art]
 
 The time has finally come for holders of CNFT to enjoy their collections as wall art! [Nano Frames](https://twitter.com/NANO_Frames) is the first project of its kind in the Cardano community that's creating digital frames and it's much needed. 
 
-Up until this point in time the most beautiful art being created by artists on the Cardno blockchain has had limited utility in terms of wall art, at least for most folks with the exception of a few who are technically savvy enough to know how to build digital frames using a Rasberry Pi.
+Up until this point in time the most beautiful art being created by artists on the Cardano blockchain has had limited utility in terms of wall art, at least for most folks with the exception of a few who are technically savvy enough to know how to build digital frames using a Rasberry Pi.
 
 ![](/images/posts/nano_frames/nano_frames_2.png) 
 

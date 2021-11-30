@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Digital frames are coming soon to the Cardano community.
+title: Digital frames are coming soon to the Cardano community!
 description: 
 date:   2019-08-22 15:01:35 +0300
 image: '/images/posts/nano_frames/nano_frames.png'

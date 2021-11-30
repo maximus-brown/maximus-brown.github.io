@@ -20,11 +20,11 @@ Nano Frames gets us closer to that and I'm thrilled they've decided to take the 
 ![](/images/posts/nano_frames/nano_frames_7.jpeg) 
 
 ### Cardano Wallet Connection
-Their vision is for collectors to connect their wallet with a Nano Frames app that allow you to pick which NFTs you'd like display in the digital frame. 
+Their vision is for collectors to connect their wallet with the Nano Frames app that allow you to pick which NFTs you'd like display in the digital frame. 
 
 ![](/images/posts/nano_frames/nano_frames_8.png) 
 
-The most popular Cardano wallets are planned to be supported including Nami Wallet, Daedalus, AdaLite, and YOROI. 
+The most used Cardano wallets are planned to be supported including Nami Wallet, Daedalus, AdaLite, and YOROI. 
 
 ![](/images/posts/nano_frames/nano_frames_3.png) 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Capturing split moments of time using High Speed Macro Photography by Deborah Berry
+title: High Speed Macro Photography by Deborah Berry
 description: 
 date:   2019-12-02 15:01:35 +0300
 image: '/images/posts/deborah_photography/marketing2WM.jpg'
@@ -13,15 +13,19 @@ She started creating high speed liquid art during a local photography club compe
 
 ![](/images/posts/deborah_photography/DSC_5657-1-1WM.jpg) 
 
-After researching this type of photography for the competition she decided to give it a try. Here's an image of her humble beginning of her first set up. 
+After researching this type of photography for the competition she decided to give it a try. The women in her local photography club ended up winning the competetiion. 
+
+Here's a picture of her humble beginning of her first set up. 
 
 ![](/images/posts/deborah_photography/Screenshot_20211208-123255_2.png) 
 
-Imagine all the complexities involved to capture a water splashes that looks as clean and beautiful as this in roughly 10,000th of a second. 
+Imagine all the complexities involved to capture a still water splash that looks as clean and beautiful as this in roughly 10,000th of a second. 
 
 ![](/images/posts/deborah_photography/marketing2WM.jpg) 
 
-Oh, and before I forget...the women in her local photography club ended up winning the competetiion. Aft
+Oh, and before I forget...t
+
+
 
 
 

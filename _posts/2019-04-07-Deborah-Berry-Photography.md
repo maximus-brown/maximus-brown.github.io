@@ -7,17 +7,17 @@ image: '/images/posts/deborah_photography/marketing2WM.jpg'
 tags:   [CNFTs,Cardano, artists]
 ---
 
-The term "High Speed Macro Photography" was an entirely new term to me until I discovered [Deborah's CNFTs project](https://www.deborahberryphotography.com/). She started creating high speed liquid art during a local photography club competition between men and women on the subject "water drops". 
+The term "High Speed Macro Photography" was an entirely new term to me until I discovered [Deborah Berry's photography](https://www.deborahberryphotography.com/) after she launched a CNFTs project. She started creating high speed liquid art during a local photography club competition between men and women on the subject "water drops". 
 
 ![](/images/posts/deborah_photography/DSC_5657-1-1WM.jpg) 
 
 
 After researching this type of photography for the competition she decided to give it a try. Here's an image of her humble beginning of her first set up. 
 
-![](/images/posts/deborah_photography/Screenshot_20211208-123255_2.jpg) 
+![](/images/posts/deborah_photography/Screenshot_20211208-123255_2.png) 
 
 
-Imagine all the complexities involved to capture a water splash that looks as clean and beautiful as this in a split moment of time. In her photography she's capturing these water splashes in roughly 10,000th of a second.
+Imagine all the complexities involved to capture a water splash that looks as clean and beautiful as this in a split moment of time. She's capturing these water splashes in roughly 10,000th of a second. 
 
 
 ![](/images/posts/deborah_photography/marketing2WM.jpg) 

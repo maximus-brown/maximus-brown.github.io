@@ -2,7 +2,7 @@
 layout: post
 title: Deborah Berry's high speed liquid art NFTs that has made it's way into Cardano is something special to see.
 description: 
-date:   2021-12-02 15:01:35 +0300
+date:   2019-12-02 15:01:35 +0300
 image: '/images/posts/deborah_photography/marketing2WM.jpg'
 tags:   [CNFTs,Cardano, artists]
 ---

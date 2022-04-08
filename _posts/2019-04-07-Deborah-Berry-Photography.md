@@ -7,7 +7,7 @@ image: '/images/posts/deborah_photography/marketing2WM.jpg'
 tags:   [CNFTs,Cardano, artists]
 ---
 
-The term "High Speed Macro Photography" was entirely new to me until I discovered a new collection of CNFTs launched by [Deborah Berry's Photography](https://www.deborahberryphotography.com/). 
+The term "High Speed Macro Photography" was an entirely new to me until I discovered a new collection of CNFTs launched by [Deborah Berry's Photography](https://www.deborahberryphotography.com/). 
 
 ![](/images/posts/deborah_photography/DSC_3989-1WM.jpg) 
 
@@ -31,14 +31,14 @@ Each experiment is unique and can sometimes take 500-800 shots to get to a high 
 
 > It's exciting to see how the colors mix and stretch.  The liquid is colored before taking the capture and it's captured one shot at a time.  
 
-Oh, before I forget...the answer is yes the women ended up winning the overall competition! Congrats to all of you.
+Oh, and before I forget. The women ended up winning the overall competition! Congrats to all of you.
 
 ## Challenges during Covid
 Deborah was in several art galleries and doing Fine Art shows during the winter months througout the State of Florida until Covid hit and that's when pretty much everything shut down including art shows.  
 
 > During Covid my husband was forced to shut down his business also. The last two years have been really hard.  
 
-Unfortunately during this time she also broke her hip and became very ill for 7 weeks that ultimately put her in a bad depression. It's an understatement to say how difficult it was for her during this time.
+She also unfortunately broke her hip during this time and became very ill for 7 weeks that ultimately put her in a bad depression. 
 
 ### NFTs gave her a renewed spirit
 Her son told her to look into doing NFT's to generate a source of income. Of course she didn't even know what that was, but she kept pushing forward to learn more about it. 
@@ -59,27 +59,28 @@ She felt like this endeavor was like learning a whole new language.
 She was told by Jason Matias that if she got a wallet by midnight he would give her 50 ADA.  
 > At first I tried to download one wallet but it was taking forever so then I found another and made the deadline with him saying I didn't think you were going to make it.  
 
-Here's another one of her art pieces I really like. 
+Here's a few more of her art pieces I really like. 
 
 ![](/images/posts/deborah_photography/marketing4WM.jpg) 
 
 ## Minting  
 Then there's the huge hurdle of learning how to mint and market her work. Minting NFTs for the first time is a beast of it's own and I admire Deborah's dedication to learn how to do this. 
 
-There was a time when she was overwhelmed and about to give up but then [@flawwed1Art](https://twitter.com/flawwed1Art) took me under his wing and encouraged me to keep going.  
+There was a time when she was overwhelmed with the processes involved and about to give up, but then [@flawwed1Art](https://twitter.com/flawwed1Art) took her under his wing and encouraged her to keep going.  
 
-
-## Her first drop
-After countless hours of hard work Deborah finally did her introduction drop on Nov 23, 2021 just over a month after joining twitter. 
+## Her first NFT drop
+After countless hours of hard work Deborah was finally able to launch her first collection on Nov 23, 2021 just over a month after joining twitter. 
 
 Her first CNFT collection is amazing!
 
 ![](/images/posts/deborah_photography/first_collection.jpg) 
 
-My thought was to use this drop as a way to introduce my work and myself to the community.  It was exciting to see how much the community loved my work.  I'm just over 50% sold now and look forward to bringing more liquid art drops to the community.  I think in the future I would do more of limited editions and possibly even doing some one of one auctions.  No definite plans yet.  My favorite thing is showing others the hidden beauty that can't be seen by the naked eye. 
+She envisioned using this drop as a way to introduce her work and herself to the community.  
+> It was exciting to see how much the community loved my work.  I'm just over 50% sold now and look forward to bringing more liquid art drops to the community.  
 
+In the future she's going to do more limited editions and possibly even 1/1 auctions, but there's no definite plans yet.  
 
-
+> My favorite thing is showing others the hidden beauty that can't be seen by the naked eye. 
 
 ## Second CNFT Collection
 I took my original waterdrop image and processed and created a whole new art

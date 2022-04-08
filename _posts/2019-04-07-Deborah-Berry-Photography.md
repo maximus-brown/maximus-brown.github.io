@@ -92,7 +92,7 @@ Here's another piece in her second collection.
 ## So what's next?  
 Well, I'm thrilled to share that Deborah is now planning to launch her third collection that's focused on butterflies!
 
-![](/images/posts/deborah_photography/butterflies_2.jpg) 
+![](/images/posts/deborah_photography/butterflies.jpg) 
 
 Keep your eyes peeled on her Twitter account and Discord server for upcoming announcements on this and future developments!
 

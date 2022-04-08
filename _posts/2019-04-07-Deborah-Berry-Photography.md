@@ -7,7 +7,7 @@ image: '/images/posts/deborah_photography/marketing2WM.jpg'
 tags:   [CNFTs,Cardano, artists]
 ---
 
-The term "High Speed Macro Photography" was an entirely new to me until I discovered a new collection of CNFTs launched by [Deborah Berry's Photography](https://www.deborahberryphotography.com/). 
+The term "High Speed Macro Photography" was entirely new to me until I discovered a new collection of CNFTs launched by [Deborah Berry's Photography](https://www.deborahberryphotography.com/). 
 
 ![](/images/posts/deborah_photography/DSC_3989-1WM.jpg) 
 

@@ -13,7 +13,7 @@ The term "High Speed Macro Photography" was an entirely new term to me until I d
 
 She started creating high speed liquid art during a local photography club competition between men and women on the subject "water drops". 
 
-After she spent some time researching this type of photography during the contest she decided to give it a try.
+After she spent some time during the contest to research this type of photography she decided to give it a try.
 
 Here's a picture of her humble beginning of her first set up. 
 
@@ -25,17 +25,16 @@ Imagine all the complexities involved to capture a still frame of a water splash
 
 She ended up winning best in show in the competition with the image shown above and falling in love with not know what you're going to get next. 
 
-Each experiment is unique and can sometimes take 500-800 shots to get to high quality art piece. 
+Each experiment is unique and can sometimes take 500-800 shots to get to a high quality art piece. 
 
 ![](/images/posts/deborah_photography/Marketing3WM.jpg) 
 
 > It's exciting to see how the colors mix and stretch.  The liquid is colored before taking the capture and it's captured one shot at a time.  
 
-Oh, and yes the women ended up winning the overall competition too. 
-
+Oh, before I forget...the answer is yes the women ended up winning the overall competition! Congrats to all of you.
 
 ## Challenges during Covid
-Deborah's was in several art galleries and doing Fine Art shows during the winter througout the State of Florida until Covid hit and shut pretty much all of the shows down. 
+Deborah was in several art galleries and doing Fine Art shows during the winter througout the State of Florida until Covid hit and when pretty much everything shut down including shows.  
 
 > During Covid my husband was forced to shut down his business also. The last two years have been really hard.  
 
@@ -46,7 +45,7 @@ She started researching and then came across a free webinar done by Jason Matias
 ## A new begnning emerged
 In October of 2021 she created a [Twitter account](https://twitter.com/DeborahBerryPic) that now has over 1,600 followers, and started to listen and learn until she finally got up the nerve to start asking questions.  
 
-She went to many spaces but found a connection with the Cardano Community. 
+She went to many spaces on different blockchains and ended up finding a connection with the Cardano Community. 
 
 > They made me feel at home.  I was amazed at how friendly and helpful everyone was.  
 
@@ -62,13 +61,17 @@ Here's another one of her art pieces I really like.
 ![](/images/posts/deborah_photography/marketing4WM.jpg) 
 
 ## Minting  
-Then there's the huge hurdel of learning how to mint and market her work. For those that have been in the NFT space we know minting is a beast of it's own. This is not an easy piece to learn and perfect, and I admire Deborah's dedication to learn how to do this. 
+Then there's the huge hurdle of learning how to mint and market her work. Minting NFTs for the first time is a beast of it's own and I admire Deborah's dedication to learn how to do this. 
 
-> There was a time when I was overwhelmed and was going to give up but then [@flawwed1Art](https://twitter.com/flawwed1Art) took me under his wing and encouraged me to keep going.  
+There was a time when she was overwhelmed and about to give up but then [@flawwed1Art](https://twitter.com/flawwed1Art) took me under his wing and encouraged me to keep going.  
 
 
 ## Her first drop
-After countless hours of hard work Deborah finally did her introduction drop on Nov 23, 2021 just over a month after joining twitter.  
+After countless hours of hard work Deborah finally did her introduction drop on Nov 23, 2021 just over a month after joining twitter. 
+
+Her first CNFT collection is amazing!
+
+![](/images/posts/deborah_photography/first_collection.jpg) 
 
 My thought was to use this drop as a way to introduce my work and myself to the community.  It was exciting to see how much the community loved my work.  I'm just over 50% sold now and look forward to bringing more liquid art drops to the community.  I think in the future I would do more of limited editions and possibly even doing some one of one auctions.  No definite plans yet.  My favorite thing is showing others the hidden beauty that can't be seen by the naked eye. 
 

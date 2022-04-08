@@ -76,7 +76,7 @@ Her first CNFT collection is amazing!
 ![](/images/posts/deborah_photography/first_collection.jpg) 
 
 She envisioned using this drop as a way to introduce her work and herself to the community.  
-> It was exciting to see how much the community loved my work.  I'm just over 50% sold now and I look forward to bringing more liquid art drops to the community.  
+> It was exciting to see how much the community loved my work.  I'm just over 50% sold out now and I look forward to bringing more liquid art drops to the community.  
 
 Her favorite thing is showing others the hidden beauty that can't be seen by the naked eye. 
 

@@ -94,7 +94,7 @@ Well, I'm thrilled to share that Deborah is now planning to launch her third col
 
 ![](/images/posts/deborah_photography/butterflies.jpg) 
 
-Keep your eyes peeled on her Twitter account and Discord server for upcoming announcements on this and future developments!
+Keep your eyes peeled on her [Twitter](https://twitter.com/DeborahBerryPic) account and [Discord](https://discord.gg/hyPxMN4N) server for upcoming announcements on this and future developments!
 
 ## Last but not least thank you
 I want to personally thank Deborah for her time to share with me her wonderful story and being patient with me during a period of time when I took a break from writing articles. 

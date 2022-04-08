@@ -7,23 +7,36 @@ image: '/images/posts/deborah_photography/marketing2WM.jpg'
 tags:   [CNFTs,Cardano, artists]
 ---
 
-The term "High Speed Macro Photography" was an entirely new term to me until I discovered [Deborah Berry's photography](https://www.deborahberryphotography.com/) after she launched a CNFTs project. 
+The term "High Speed Macro Photography" was an entirely new term to me until I discovered [Deborah Berry's Photography](https://www.deborahberryphotography.com/) after she launched a collection of CNFTs for some of her work. 
 
 She started creating high speed liquid art during a local photography club competition between men and women on the subject "water drops". 
 
-![](/images/posts/deborah_photography/DSC_5657-1-1WM.jpg) 
+![](/images/posts/deborah_photography/marketing1WM.jpg) 
 
-After researching this type of photography for the competition she decided to give it a try. The women in her local photography club ended up winning the competetiion. 
+After she spent some time researching this type of photography during the competition she decided to give it a try.
 
 Here's a picture of her humble beginning of her first set up. 
 
 ![](/images/posts/deborah_photography/Screenshot_20211208-123255_2.png) 
 
-Imagine all the complexities involved to capture a still water splash that looks as clean and beautiful as this in roughly 10,000th of a second. 
+Imagine all the complexities involved to capture a still water splash that looks as clean and beautiful as this in roughly 10,000th of a second. It took her four hours to capture her first collision. 
 
-![](/images/posts/deborah_photography/marketing2WM.jpg) 
+![](/images/posts/deborah_photography/DSC_5657-1-1WM.jpg) 
 
-Oh, and before I forget...t
+The image above ended up winning best in show in that competition and she ended up falling in love with the not know what you're going to get next. Each experiment is unique and can sometimes take 500-800 shots to get to high quality art piece. 
+
+Oh, and yes the women ended up winning the overall competition too. 
+
+![](/images/posts/deborah_photography/Marketing3WM.jpg) 
+
+> It's exciting to see how the colors mix and stretch.  The liquid is colored before taking the capture and it's captured one shot at a time.  
+
+
+### Challenges during Covid
+
+
+
+
 
 
 

@@ -81,7 +81,7 @@ She envisioned using this drop as a way to introduce her work and herself to the
 Her favorite thing is showing others the hidden beauty that can't be seen by the naked eye. 
 
 ## Now onto releasing her second CNFT collection
-She then got inspired to take her original waterdrop images and process them to create entirely new art and ulitimately led her to create a second CNFTs collection.
+She then got inspired to take her original waterdrop images and process them to create entirely new art and ulitimately led her to create a second collection of CNFTs.
 
 ![](/images/posts/deborah_photography/gUmDgF7S.jpg) 
 

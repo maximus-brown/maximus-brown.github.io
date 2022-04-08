@@ -97,11 +97,9 @@ Well, I'm thrilled to share that Deborah is now planning to launch her third col
 Keep your eyes peeled on her Twitter account and Discord server for upcoming announcements on this and future developments!
 
 ## Last but not least thank you
-I want to personally thank Deborah for her time to share with me her wonderul story and being patient with me during a period of time when I took a break from writing articles. 
+I want to personally thank Deborah for her time to share with me her wonderful story and being patient with me during a period of time when I took a break from writing articles. 
 
 Wishing you all the best in your future work and inspirations in the NFTs space, and with life. 
-
-And thank you to all the readers for getting all the way to the very end of my article.
 
 ## Deborah's social spaces
 Feel free to hop on over to her Twitter or Discord server in the links below. 

@@ -97,7 +97,7 @@ Well, I'm thrilled to share that Deborah is now planning to launch her third col
 Keep your eyes peeled on her [Twitter](https://twitter.com/DeborahBerryPic) account and [Discord](https://discord.gg/hyPxMN4N) server for upcoming announcements on this and future developments!
 
 ## Co-Host of Cardano Women and Cardano Nights
-Not only is she working diligently on her own collection, she's also giving back to the community by co-hosting both [Cardano Women](https://www.adacafe.io/cardano-women) and Cardano Mic Nights that's supported by [ADA Cafe](https://www.adacafe.io/). 
+Not only is she working diligently on her own collections, she's also giving back to the community by co-hosting both [Cardano Women](https://www.adacafe.io/cardano-women) and Cardano Mic Nights that's supported by [ADA Cafe](https://www.adacafe.io/). 
 
 Quite the busy woman! 
 

@@ -85,7 +85,7 @@ She then got inspired to take her original waterdrop images and process them to 
 
 ![](/images/posts/deborah_photography/hearts_1.jpg) 
 
-Here's another piece in her second collection. 
+Here's a closer look at one of them. 
 
 ![](/images/posts/deborah_photography/hearts_2.jpg) 
 

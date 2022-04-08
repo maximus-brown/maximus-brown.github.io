@@ -76,18 +76,18 @@ Her first CNFT collection is amazing!
 ![](/images/posts/deborah_photography/first_collection.jpg) 
 
 She envisioned using this drop as a way to introduce her work and herself to the community.  
-> It was exciting to see how much the community loved my work.  I'm just over 50% sold out now and I look forward to bringing more liquid art drops to the community.  
+> It was exciting to see how much the community loved my work.  I'm just over 65% sold out now and I look forward to bringing more liquid art drops to the community.  
 
 Her favorite thing is showing others the hidden beauty that can't be seen by the naked eye. 
 
 ## Now onto releasing her second CNFT collection
-She then got inspired to take her original waterdrop images and process them to create entirely new art and ulitimately led her to create a second collection of CNFTs that look like this.
+She then got inspired to take her original waterdrop images and process them to create entirely new art and ulitimately led her to create a second collection of CNFTs called the Sweetheart Collection for Valentines Day.
 
-![](/images/posts/deborah_photography/gUmDgF7S.jpg) 
+![](/images/posts/deborah_photography/hearts_1.jpg) 
 
 Here's another piece in her second collection. 
 
-![](/images/posts/deborah_photography/ft6ukBgS.jpg) 
+![](/images/posts/deborah_photography/hearts_2.jpg) 
 
 ## So what's next?  
 Well, I'm thrilled to share that Deborah is now planning to launch her third collection that's focused on butterflies!
@@ -95,6 +95,11 @@ Well, I'm thrilled to share that Deborah is now planning to launch her third col
 ![](/images/posts/deborah_photography/butterflies.jpg) 
 
 Keep your eyes peeled on her [Twitter](https://twitter.com/DeborahBerryPic) account and [Discord](https://discord.gg/hyPxMN4N) server for upcoming announcements on this and future developments!
+
+## Co-Host of Cardano Women and Cardano Nights
+Not only is she working diligently on her own collection, she's also giving back to the community by co-hosting both [Cardano Women](https://www.adacafe.io/cardano-women) and Cardano Mic Nights that's supported by [ADA Cafe](https://www.adacafe.io/). 
+
+Quite the busy woman! 
 
 ## Last but not least thank you
 I want to personally thank Deborah for her time to share with me her wonderful story and being patient with me during a period of time when I took a break from writing articles. 

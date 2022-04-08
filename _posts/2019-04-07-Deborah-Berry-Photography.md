@@ -7,7 +7,7 @@ image: '/images/posts/deborah_photography/marketing2WM.jpg'
 tags:   [CNFTs,Cardano, artists]
 ---
 
-The term "High Speed Macro Photography" was entirely new to me until I discovered a collection of CNFTs launched by [Deborah Berry's Photography](https://www.deborahberryphotography.com/). 
+The term "High Speed Macro Photography" was entirely unknown to me until I discovered a collection of CNFTs launched by [Deborah Berry's Photography](https://www.deborahberryphotography.com/). 
 
 ![](/images/posts/deborah_photography/DSC_3989-1WM.jpg) 
 
@@ -81,47 +81,36 @@ She envisioned using this drop as a way to introduce her work and herself to the
 Her favorite thing is showing others the hidden beauty that can't be seen by the naked eye. 
 
 ## Now onto releasing her second CNFT collection
-In her second collection released she got inspired to take her original waterdrop images and process them to create entirely new art that look like a few of the pieces below. 
+She then got inspired to take her original waterdrop images and process them to create entirely new art and ulitimately led her to create a second CNFTs collection.
 
 ![](/images/posts/deborah_photography/gUmDgF7S.jpg) 
 
 Here's another piece in her second collection. 
+
 ![](/images/posts/deborah_photography/ft6ukBgS.jpg) 
 
+## So what's next?  
+Well, I'm thrilled to share that Deborah is now planning to launch her third collection that's focused on butterflies!
 
+![](/images/posts/deborah_photography/butterflies_2.jpg) 
 
+Keep your eyes peeled on her Twitter account and Discord server for upcoming announcements on this and future developments!
 
-First off, if you'd like to just hop right into her projects here you go.
+## Last but not least thank you
+I want to personally thank Deborah for her time to share with me her wonderul story and being patient with me during a period of time when I took a break from writing articles. 
+
+Wishing you all the best in your future work and inspirations in the NFTs space, and with life. 
+
+And thank you to all the readers for getting all the way to the very end of my article.
+
+## Deborah's social spaces
+Feel free to hop on over to her Twitter or Discord server in the links below. 
 
 Twitter : [@DeborahBerryPic](https://twitter.com/DeborahBerryPic)  
 
 Website : [https://www.deborahberryphotography.com](https://www.deborahberryphotography.com/)
 
 Discord : [https://discord.gg/hyPxMN4N](https://discord.gg/hyPxMN4N)
-
-### Background History
-TBD
-
-### How she got into liquid photography
-TBD
-
-![](/images/posts/deborah_photography/DSC_3989-1WM.jpg) 
-
-![](/images/posts/deborah_photography/butterflies.jpg) 
-![](/images/posts/deborah_photography/DSC_3849-1WM.jpg) 
-![](/images/posts/deborah_photography/DSC_3989-1WM.jpg) 
-![](/images/posts/deborah_photography/DSC_5657-1-1WM.jpg) 
-![](/images/posts/deborah_photography/marketing1WM.jpg) 
-![](/images/posts/deborah_photography/marketing2WM.jpg) 
-![](/images/posts/deborah_photography/Marketing3WM.jpg) 
-![](/images/posts/deborah_photography/marketing4WM.jpg) 
-![](/images/posts/deborah_photography/Marketing5WM.jpg) 
-![](/images/posts/deborah_photography/Marketing6WM.jpg) 
-![](/images/posts/deborah_photography/) 
-![](/images/posts/deborah_photography/Screenshot_20211208-123255_2.png) 
-
-
-> TBD 
 
 ### Important Disclaimer
 I can't be held responsible or liable for your use of the information contained in or linked from these web pages. Please try at your own risk.

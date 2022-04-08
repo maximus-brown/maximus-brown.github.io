@@ -11,7 +11,7 @@ The term "High Speed Macro Photography" was an entirely new term to me until I d
 
 She started creating high speed liquid art during a local photography club competition between men and women on the subject "water drops". 
 
-![](/images/posts/deborah_photography/marketing1WM.jpg) 
+![](/images/posts/deborah_photography/DSC_3989-1WM.jpg) 
 
 After she spent some time researching this type of photography during the competition she decided to give it a try.
 

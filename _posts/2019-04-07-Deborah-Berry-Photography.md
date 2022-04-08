@@ -61,46 +61,14 @@ Here's another one of her art pieces I really like.
 
 ![](/images/posts/deborah_photography/marketing4WM.jpg) 
 
-## Minting 
+## Minting  
+Then there's the huge hurdel of learning how to mint and market her work. For those that have been in the NFT space we know minting is a beast of it's own. This is not an easy piece to learn and perfect, and I admire Deborah's dedication to learn how to do this. 
 
-Then I had to learn how to mint and market my work.  There was a time when I was overwhelmed and was going to give up but then someone (@flawwed1Art) took me under his wing and encouraged me to keep going.  I finally did my introduction drop on Nov 23, just over a month after joining twitter.  My thought was to use this drop as a way to introduce my work and myself to the community.  It was exciting to see how much the community loved my work.  I'm just over 50% sold now and look forward to bringing more liquid art drops to the community.  I think in the future I would do more of limited editions and possibly even doing some one of one auctions.  No definite plans yet.  My favorite thing is showing others the hidden beauty that can't be seen by the naked eye. 
-
-
-To take it a step further she then needed to learn 
+> There was a time when I was overwhelmed and was going to give up but then [@flawwed1Art](https://twitter.com/flawwed1Art) took me under his wing and encouraged me to keep going.  
 
 
+## Her first drop
+After countless hours of hard work Deborah finally did her introduction drop on Nov 23, 2021 just over a month after joining twitter.  
 
-First off, if you'd like to just hop right into her projects here you go.
+My thought was to use this drop as a way to introduce my work and myself to the community.  It was exciting to see how much the community loved my work.  I'm just over 50% sold now and look forward to bringing more liquid art drops to the community.  I think in the future I would do more of limited editions and possibly even doing some one of one auctions.  No definite plans yet.  My favorite thing is showing others the hidden beauty that can't be seen by the naked eye. 
 
-Twitter : [@DeborahBerryPic](https://twitter.com/DeborahBerryPic)  
-
-Website : [https://www.deborahberryphotography.com](https://www.deborahberryphotography.com/)
-
-Discord : [https://discord.gg/hyPxMN4N](https://discord.gg/hyPxMN4N)
-
-### Background History
-TBD
-
-### How she got into liquid photography
-TBD
-
-![](/images/posts/deborah_photography/DSC_3989-1WM.jpg) 
-
-![](/images/posts/deborah_photography/butterflies.jpg) 
-![](/images/posts/deborah_photography/DSC_3849-1WM.jpg) 
-![](/images/posts/deborah_photography/DSC_3989-1WM.jpg) 
-![](/images/posts/deborah_photography/DSC_5657-1-1WM.jpg) 
-![](/images/posts/deborah_photography/marketing1WM.jpg) 
-![](/images/posts/deborah_photography/marketing2WM.jpg) 
-![](/images/posts/deborah_photography/Marketing3WM.jpg) 
-![](/images/posts/deborah_photography/marketing4WM.jpg) 
-![](/images/posts/deborah_photography/Marketing5WM.jpg) 
-![](/images/posts/deborah_photography/Marketing6WM.jpg) 
-![](/images/posts/deborah_photography/) 
-![](/images/posts/deborah_photography/Screenshot_20211208-123255_2.png) 
-
-
-> TBD 
-
-### Important Disclaimer
-I can't be held responsible or liable for your use of the information contained in or linked from these web pages. Please try at your own risk.

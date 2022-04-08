@@ -9,9 +9,9 @@ tags:   [CNFTs,Cardano, artists]
 
 The term "High Speed Macro Photography" was an entirely new term to me until I discovered [Deborah Berry's Photography](https://www.deborahberryphotography.com/) after she launched a collection of CNFTs. 
 
-She started creating high speed liquid art during a local photography club competition between men and women on the subject "water drops". 
-
 ![](/images/posts/deborah_photography/DSC_3989-1WM.jpg) 
+
+She started creating high speed liquid art during a local photography club competition between men and women on the subject "water drops". 
 
 After she spent some time researching this type of photography during the contest she decided to give it a try.
 
@@ -72,3 +72,44 @@ After countless hours of hard work Deborah finally did her introduction drop on 
 
 My thought was to use this drop as a way to introduce my work and myself to the community.  It was exciting to see how much the community loved my work.  I'm just over 50% sold now and look forward to bringing more liquid art drops to the community.  I think in the future I would do more of limited editions and possibly even doing some one of one auctions.  No definite plans yet.  My favorite thing is showing others the hidden beauty that can't be seen by the naked eye. 
 
+
+
+
+To take it a step further she then needed to learn 
+
+
+
+First off, if you'd like to just hop right into her projects here you go.
+
+Twitter : [@DeborahBerryPic](https://twitter.com/DeborahBerryPic)  
+
+Website : [https://www.deborahberryphotography.com](https://www.deborahberryphotography.com/)
+
+Discord : [https://discord.gg/hyPxMN4N](https://discord.gg/hyPxMN4N)
+
+### Background History
+TBD
+
+### How she got into liquid photography
+TBD
+
+![](/images/posts/deborah_photography/DSC_3989-1WM.jpg) 
+
+![](/images/posts/deborah_photography/butterflies.jpg) 
+![](/images/posts/deborah_photography/DSC_3849-1WM.jpg) 
+![](/images/posts/deborah_photography/DSC_3989-1WM.jpg) 
+![](/images/posts/deborah_photography/DSC_5657-1-1WM.jpg) 
+![](/images/posts/deborah_photography/marketing1WM.jpg) 
+![](/images/posts/deborah_photography/marketing2WM.jpg) 
+![](/images/posts/deborah_photography/Marketing3WM.jpg) 
+![](/images/posts/deborah_photography/marketing4WM.jpg) 
+![](/images/posts/deborah_photography/Marketing5WM.jpg) 
+![](/images/posts/deborah_photography/Marketing6WM.jpg) 
+![](/images/posts/deborah_photography/) 
+![](/images/posts/deborah_photography/Screenshot_20211208-123255_2.png) 
+
+
+> TBD 
+
+### Important Disclaimer
+I can't be held responsible or liable for your use of the information contained in or linked from these web pages. Please try at your own risk.

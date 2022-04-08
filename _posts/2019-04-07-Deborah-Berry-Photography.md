@@ -38,7 +38,7 @@ Deborah was in several art galleries and doing Fine Art shows during the winter 
 
 > During Covid my husband was forced to shut down his business also. The last two years have been really hard.  
 
-She also unfortunately broke her femur during this time and had surgery immediately after the following day. To this day she's still not able to walk without cane and even with it can't walk very far. 
+She also unfortunately broke her femur during this time and had surgery immediately after the following day. To this day she's still not able to walk without a cane and even with it can't walk very far. 
 
 ### NFTs gave her a renewed spirit
 Her son told her to look into doing NFT's to generate a source of income. Of course she didn't even know what that was, but she kept pushing forward to learn more about it. 
@@ -81,7 +81,7 @@ She envisioned using this drop as a way to introduce her work and herself to the
 Her favorite thing is showing others the hidden beauty that can't be seen by the naked eye. 
 
 ## Now onto releasing her second CNFT collection
-She then got inspired to take her original waterdrop images and process them to create entirely new art and ulitimately led her to create a second collection of CNFTs.
+She then got inspired to take her original waterdrop images and process them to create entirely new art and ulitimately led her to create a second collection of CNFTs that look like this.
 
 ![](/images/posts/deborah_photography/gUmDgF7S.jpg) 
 

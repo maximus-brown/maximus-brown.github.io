@@ -68,7 +68,7 @@ Then there's the huge hurdle of learning how to mint and market her work. Mintin
 
 There was a time when she was overwhelmed with the processes involved and when she was about to give up [@flawwed1Art](https://twitter.com/flawwed1Art) took her under his wing and encouraged her to keep going.  
 
-## Her first successful NFT drop
+## Her first NFT drop was a success
 After countless hours of hard work Deborah was finally able to launch her first collection on Nov 23, 2021 just over a month after joining twitter. 
 
 Her first CNFT collection is amazing!

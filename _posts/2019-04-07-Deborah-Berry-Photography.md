@@ -23,21 +23,23 @@ Imagine all the complexities involved to capture a still frame of a water splash
 
 ![](/images/posts/deborah_photography/DSC_5657-1-1WM.jpg) 
 
-She ended up winning best in show in that competition with the image shown above and falling in love with the not know what you're going to get next. Each experiment is unique and can sometimes take 500-800 shots to get to high quality art piece. 
+She ended up winning best in show in the competition with the image shown above and falling in love with not know what you're going to get next. 
 
-Oh, and yes the women ended up winning the overall competition too. 
+Each experiment is unique and can sometimes take 500-800 shots to get to high quality art piece. 
 
 ![](/images/posts/deborah_photography/Marketing3WM.jpg) 
 
 > It's exciting to see how the colors mix and stretch.  The liquid is colored before taking the capture and it's captured one shot at a time.  
 
+Oh, and yes the women ended up winning the overall competition too. 
+
 
 ## Challenges during Covid
-Deborah's been in several art galleries and doing Fine Art shows during the winter througout the State of Florida until Covid hit and shut the shows down.
+Deborah's was in several art galleries and doing Fine Art shows during the winter througout the State of Florida until Covid hit and shut pretty much all of the shows down. 
 
 > During Covid my husband was forced to shut down his business also. The last two years have been really hard.  
 
-Her son told she should look into doing NFT's. Of course she didn't even know what that was, but she kept pushing forward to learn more about it. 
+Her son told her to look into doing NFT's to generate a source of income. Of course she didn't even know what that was, but she kept pushing forward to learn more about it. 
 
 She started researching and then came across a free webinar done by Jason Matias in which he taught about the art business and NFT's. 
 
@@ -48,10 +50,12 @@ She went to many spaces but found a connection with the Cardano Community.
 
 > They made me feel at home.  I was amazed at how friendly and helpful everyone was.  
 
-## Felt like learning an entirely new language
-She felt like she had to learn a whole new language. 
+She felt like this endeavor was like learning a whole new language.
 
-> My biggest challenge was that I had no funds to start with but then I was given a challenge once again. I was told by Jason Matias that if I got a wallet by midnight he would give me 50 ADA.  At first I tried to download one wallet but it was taking forever so then I found another and made the deadline with him saying I didn't think you were going to make it.  
+> My biggest challenge was that I had no funds to start with but then I was given a challenge once again. 
+
+She was told by Jason Matias that if she got a wallet by midnight he would give her 50 ADA.  
+> At first I tried to download one wallet but it was taking forever so then I found another and made the deadline with him saying I didn't think you were going to make it.  
 
 Here's another one of her art pieces I really like. 
 

@@ -2,7 +2,7 @@
 layout: post
 title: High Speed Macro Photography by Deborah Berry
 description: 
-date:   2019-12-02 15:01:35 +0300
+date:   2022-04-08 15:01:35 +0300
 image: '/images/posts/deborah_photography/marketing2WM.jpg'
 tags:   [CNFTs,Cardano, artists]
 ---

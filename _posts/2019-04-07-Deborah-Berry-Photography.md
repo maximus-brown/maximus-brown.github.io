@@ -89,6 +89,10 @@ Here's a closer look at one of them.
 
 ![](/images/posts/deborah_photography/hearts_2.jpg) 
 
+And here's a before and after picture of turning one of her original waterdrop images into one of the Sweetheart CNFTs.
+
+![](/images/posts/deborah_photography/hearts_before_after.jpg) 
+
 ## So what's next?  
 Well, I'm thrilled to share that Deborah is now planning to launch her third collection that's focused on butterflies!
 

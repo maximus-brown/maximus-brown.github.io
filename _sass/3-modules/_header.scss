@@ -190,6 +190,7 @@
 
   .icon__menu,
   .icon__search {
+    display: none;
     transition: color .25s ease;
 
     &:hover {
